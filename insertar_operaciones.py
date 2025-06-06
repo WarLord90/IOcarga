@@ -189,7 +189,7 @@ try:
                 SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
                 WHERE PRP_DESCRIPCION LIKE ?
             """
-            linea_negocio = row.get('LÍNEA DE NEGOCIO', '')
+            linea_negocio = row.get('Linea de Negocio LumoSys', '')
             prp_id = buscar_id_por_like(cursor, query_productos_prospecciones, linea_negocio, "Línea de negocio")
             if prp_id is None:
                 registros_omitidos += 1
@@ -303,73 +303,108 @@ try:
             cantidad = row.get("# BIENES", "")
             descripcion = row.get("DESCRIPCIÓN DE LOS BIENES", "")
 
-            bia_id = insert_and_get_id(cursor,"""
-                INSERT INTO IOP.BIENES_ACTIVOS_PROSPECIONES (
-                    BIA_OPP_ID,
-                    BIA_TBT_ID,
-                    BIA_NO_BIENES,
-                    BIA_DESCRIPCION_BIENES,
-                    BIA_VALOR_ACTIVO_CON_IVA,
-                    BIA_VALOR_PARTIDA_ACTIVO_CON_IVA,
-                    BIA_FECHA_ENTREGA,
-                    BIA_TBI_ID,
-                    BIA_EMP_ID_ACTIVO,
-                    BIA_FECHA_REGISTRO,
-                    BIA_USU_ID
-                )
-                VALUES (
-                    ?,    -- BIA_OPP_ID
-                    ?,    -- BIA_TBT_ID
-                    ?,    -- BIA_NO_BIENES
-                    ?,    -- BIA_DESCRIPCION_BIENES
-                    ?,    -- BIA_VALOR_ACTIVO_CON_IVA
-                    ?,    -- BIA_VALOR_PARTIDA_ACTIVO_CON_IVA
-                    ?,    -- BIA_FECHA_ENTREGA
-                    ?,    -- BIA_TBI_ID
-                    ?,    -- BIA_EMP_ID_ACTIVO                                       
-                    GETDATE(), -- BIA_FECHA_REGISTRO
-                    ?     -- BIA_USU_ID
-                );SELECT SCOPE_IDENTITY();
-            """, (
-                opp_id,
-                2,
-                cantidad,
-                descripcion,
-                valor_activo,
-                valor_activo,
-                mes_entrega,
-                1,
-                emp_id,                
-                3
-            ),"BIENES_ACTIVOS_PROSPECCIONES")
+            elementoscant = cantidad.split("|")
+            elementosdesc = descripcion.split("|")
+
+            for cant, desc in zip(elementoscant,elementosdesc):
+                
+                bia_id = insert_and_get_id(cursor,"""
+                    INSERT INTO IOP.BIENES_ACTIVOS_PROSPECIONES (
+                        BIA_OPP_ID,
+                        BIA_TBT_ID,
+                        BIA_NO_BIENES,
+                        BIA_DESCRIPCION_BIENES,
+                        BIA_VALOR_ACTIVO_CON_IVA,
+                        BIA_VALOR_PARTIDA_ACTIVO_CON_IVA,
+                        BIA_FECHA_ENTREGA,
+                        BIA_TBI_ID,
+                        BIA_EMP_ID_ACTIVO,
+                        BIA_FECHA_REGISTRO,
+                        BIA_USU_ID
+                    )
+                    VALUES (
+                        ?,    -- BIA_OPP_ID
+                        ?,    -- BIA_TBT_ID
+                        ?,    -- BIA_NO_BIENES
+                        ?,    -- BIA_DESCRIPCION_BIENES
+                        ?,    -- BIA_VALOR_ACTIVO_CON_IVA
+                        ?,    -- BIA_VALOR_PARTIDA_ACTIVO_CON_IVA
+                        ?,    -- BIA_FECHA_ENTREGA
+                        ?,    -- BIA_TBI_ID
+                        ?,    -- BIA_EMP_ID_ACTIVO                                       
+                        GETDATE(), -- BIA_FECHA_REGISTRO
+                        ?     -- BIA_USU_ID
+                    );SELECT SCOPE_IDENTITY();
+                """, (
+                    opp_id,
+                    2,
+                    cant.strip(),
+                    desc.strip(),
+                    valor_activo,
+                    valor_activo,
+                    mes_entrega,
+                    1,
+                    emp_id,                
+                    3
+                ),"BIENES_ACTIVOS_PROSPECCIONES")
+                valor_activo = 0
+
             
             comentarios = row.get("COMENTARIOS", "")
-            print (f"Comentarios:{comentarios}")
-            nombre_completo_ejecutivo = row.get("EJECUTIVO COMERCIAL", "")
-            fecha_estimada_flag = 1 if fecha_estimada_cierre else 0  # bit: 1 si existe, 0 si no
+            if comentarios.strip():        
+                nombre_completo_ejecutivo = row.get("EJECUTIVO COMERCIAL", "")
+                fecha_estimada_flag = 1 if fecha_estimada_cierre else 0  # bit: 1 si existe, 0 si no
 
-            coe_id = insert_and_get_id(cursor, """
-                INSERT INTO IOP.COMENTARIOS_PROSPECIONES (
-                    COE_OPP_ID,
-                    COE_DESCRIPCION,
-                    COE_FECHA_REGISTRO,
-                    COE_USU_ID,
-                    COE_NOMBRE_COMPLETO,
-                    COE_FECHA_ESTIMADA_CIERRE,
-                    COE_ADJUDICADA,
-                    COE_CANCELADA
-                )
-                VALUES (?, ?, GETDATE(), ?, ?, ?, ?, ?);
-                SELECT SCOPE_IDENTITY();
-            """, (
-                opp_id,
-                comentarios,
-                3,
-                nombre_completo_ejecutivo,
-                fecha_estimada_flag,
-                0,  # adjudicada
-                0   # cancelada
-            ), "COMENTARIOS_PROSPECIONES")
+                coe_id = insert_and_get_id(cursor, """
+                    INSERT INTO IOP.COMENTARIOS_PROSPECIONES (
+                        COE_OPP_ID,
+                        COE_DESCRIPCION,
+                        COE_FECHA_REGISTRO,
+                        COE_USU_ID,
+                        COE_NOMBRE_COMPLETO,
+                        COE_FECHA_ESTIMADA_CIERRE,
+                        COE_ADJUDICADA,
+                        COE_CANCELADA
+                    )
+                    VALUES (?, ?, GETDATE(), ?, ?, ?, ?, ?);
+                    SELECT SCOPE_IDENTITY();
+                """, (
+                    opp_id,
+                    comentarios,
+                    3,
+                    nombre_completo_ejecutivo,
+                    fecha_estimada_flag,
+                    0,  # adjudicada
+                    0   # cancelada
+                ), "COMENTARIOS_PROSPECIONES")
+
+            comentarios14abril = row.get("COMENTARIOS AL 14 DE ABRIL 2024", "")
+            if comentarios14abril.strip():        
+                nombre_completo_ejecutivo = row.get("EJECUTIVO COMERCIAL", "")
+                fecha_estimada_flag = 1 if fecha_estimada_cierre else 0  # bit: 1 si existe, 0 si no
+
+                coe_id = insert_and_get_id(cursor, """
+                    INSERT INTO IOP.COMENTARIOS_PROSPECIONES (
+                        COE_OPP_ID,
+                        COE_DESCRIPCION,
+                        COE_FECHA_REGISTRO,
+                        COE_USU_ID,
+                        COE_NOMBRE_COMPLETO,
+                        COE_FECHA_ESTIMADA_CIERRE,
+                        COE_ADJUDICADA,
+                        COE_CANCELADA
+                    )
+                    VALUES (?, ?, GETDATE(), ?, ?, ?, ?, ?);
+                    SELECT SCOPE_IDENTITY();
+                """, (
+                    opp_id,
+                    comentarios14abril,
+                    3,
+                    nombre_completo_ejecutivo,
+                    fecha_estimada_flag,
+                    0,  # adjudicada
+                    0   # cancelada
+                ), "COMENTARIOS_PROSPECIONES")                
 
 
             conn.commit()
