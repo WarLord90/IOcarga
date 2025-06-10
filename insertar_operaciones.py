@@ -5,7 +5,7 @@ import calendar
 from conexion import conectar
 import os
 
-def insert_and_get_id(cursor, query, params, descripcion=""):
+def insert_and_get_id(cursor, query, params, descripcion="", fila_excel=None):
     try:
         cursor.execute(query, params)
         cursor.nextset()
@@ -14,30 +14,44 @@ def insert_and_get_id(cursor, query, params, descripcion=""):
         #escribir_log(f"{descripcion} insertado con ID: {new_id}")
         return new_id
     except Exception as e:
-        escribir_log(f"Error al insertar {descripcion}: {e}")
+        if fila_excel is not None:
+            escribir_log(f"Error al insertar {descripcion} en fila Excel {fila_excel}: {e}")            
+        else:
+            escribir_log(f"Error al insertar {descripcion}: {e}")
         return None
     
-def buscar_id_por_like(cursor, query, valor_busqueda, descripcion=""):
+def buscar_id_por_like(cursor, query, valor_busqueda, descripcion="", fila_excel=None):
     try:
         if pd.isna(valor_busqueda) or valor_busqueda.strip() == "":
-            escribir_log(f"{descripcion} está vacío o nulo.")
+            if fila_excel is not None:
+                escribir_log(f"{descripcion} está vacío o nulo. (fila Excel {fila_excel})")
+            else:
+                escribir_log(f"{descripcion} está vacío o nulo.")
             return None
+
         valor_param = f"%{valor_busqueda.strip()}%"
         cursor.execute(query, (valor_param,))
         result = cursor.fetchone()
+
         if result:
-            #escribir_log(f"{descripcion} encontrado: {result[0]}")
             return result[0]
         else:
-            escribir_log(f"{descripcion} no encontrado para '{valor_param}'")
+            if fila_excel is not None:
+                escribir_log(f"{descripcion} no encontrado para '{valor_param}' (fila Excel {fila_excel})")
+            else:
+                escribir_log(f"{descripcion} no encontrado para '{valor_param}'")
             return None
+
     except Exception as e:
-        escribir_log(f"Error al buscar {descripcion}: {e}")
+        if fila_excel is not None:
+            escribir_log(f"Error al buscar {descripcion} (fila Excel {fila_excel}): {e}")
+        else:
+            escribir_log(f"Error al buscar {descripcion}: {e}")
         return None
 
 def buscar_director_por_iniciales(cursor, iniciales, rol="DIRECTOR COMERCIAL"):
     if not isinstance(iniciales, str) or len(iniciales.strip()) != 2:
-        escribir_log("Iniciales inválidas para DIRECTOR COMERCIAL.")
+        escribir_log(f"Iniciales inválidas para DIRECTOR COMERCIAL: {iniciales}")
         return None
 
     try:
@@ -93,24 +107,24 @@ def escribir_log(mensaje):
         f.write(f"[{timestamp}] {mensaje}\n")
 
 
-
-
 ruta_excel = r"C:\CargasIO\carga.xlsx"
-try:
-    registros_insertados = 0
-    registros_omitidos = 0
-    errores = 0
 
-    df = pd.read_excel(ruta_excel,engine='openpyxl')
-    #escribir_log("Archivo cargado correctamente")
-    #print((df.head))
-    # Conexión a la base de datos
-    conn = conectar()
-    cursor = conn.cursor()
-    
-    for index, row in df.iterrows():
+registros_insertados = 0
+registros_omitidos = 0
+errores = 0
+
+df = pd.read_excel(ruta_excel,engine='openpyxl')
+#escribir_log("Archivo cargado correctamente")
+#print((df.head))
+# Conexión a la base de datos
+conn = conectar()
+cursor = conn.cursor()
+
+for index, row in df.iterrows():
+    fila_excel = index 
+    try: 
         if row['ESTATUS CORTO'] != 'Declinado' and row['ESTATUS CORTO'] != 'No adjudicado' and row['ESTATUS CORTO'] != '':
-            #escribir_log(f"Procesando fila {index +1}")
+            escribir_log(f"Procesando fila {fila_excel}")
 
             # Valores fijos
             usuario_id_carga = 3
@@ -119,46 +133,47 @@ try:
             pap_id = insert_and_get_id(cursor, """
                 INSERT INTO IOP.PARTICIPACION_PROSPECIONES (PAP_TES_ID, PAP_FECHA_REGISTRO, PAP_USU_ID)
                 VALUES (?, GETDATE(), ?); SELECT SCOPE_IDENTITY();
-            """, (pap_tes_id, usuario_id_carga), "PARTICIPACION_PROSPECIONES")
+            """, (pap_tes_id, usuario_id_carga), "PARTICIPACION_PROSPECIONES", fila_excel=fila_excel)
 
             elp_id = insert_and_get_id(cursor, """
                 INSERT INTO IOP.EJECUTIVOS_LICITACIONES_PROSPECIONES (ELP_FECHA_REGISTRO, ELP_USU_ID)
                 VALUES (GETDATE(), ?); SELECT SCOPE_IDENTITY();
-            """, (usuario_id_carga,), "EJECUTIVOS_LICITACIONES_PROSPECIONES")
+            """, (usuario_id_carga,), "EJECUTIVOS_LICITACIONES_PROSPECIONES", fila_excel=fila_excel)
 
             brp_id = insert_and_get_id(cursor, """
                 INSERT INTO IOP.BASES_PROSPECIONES (BRP_FECHA_PUBLICACION_BASES,BRP_FECHA_REGISTRO,BRP_USU_ID)
                 VALUES (GETDATE(), GETDATE(), ?); 
                 SELECT SCOPE_IDENTITY();
-            """, (usuario_id_carga,), "BASES_PROSPECIONES")
+            """, (usuario_id_carga,), "BASES_PROSPECIONES", fila_excel=fila_excel)
 
 
             cpp_id = insert_and_get_id(cursor, """
                 INSERT INTO IOP.CEDULAS_PADRON_PROVEEDORES_PROSPECIONES (CPP_FECHA_REGISTRO, CPP_USU_ID)
                 VALUES (GETDATE(), ?); SELECT SCOPE_IDENTITY();
-            """, (usuario_id_carga,), "CEDULAS_PADRON_PROVEEDORES_PROSPECIONES")
+            """, (usuario_id_carga,), "CEDULAS_PADRON_PROVEEDORES_PROSPECIONES", fila_excel=fila_excel)
 
             jpo_id = insert_and_get_id(cursor, """
                 INSERT INTO IOP.JUNTA_PRE_OPERACION_PROSPECIONES (JPO_FECHA_REGISTRO, JPO_USU_ID)
                 VALUES (GETDATE(), ?); SELECT SCOPE_IDENTITY();
-            """, (usuario_id_carga,), "JUNTA_PRE_OPERACION_PROSPECIONES")
+            """, (usuario_id_carga,), "JUNTA_PRE_OPERACION_PROSPECIONES", fila_excel=fila_excel)
 
             jap_id = insert_and_get_id(cursor, """
                 INSERT INTO IOP.JUNTA_ACLARACIONES_PROSPECIONES (JAP_FECHA_REGISTRO, JAP_USU_ID)
                 VALUES (GETDATE(), ?); SELECT SCOPE_IDENTITY();
-            """, (usuario_id_carga,), "JUNTA_ACLARACIONES_PROSPECIONES")
+            """, (usuario_id_carga,), "JUNTA_ACLARACIONES_PROSPECIONES", fila_excel=fila_excel)
 
             scr_id = insert_and_get_id(cursor, """
                 INSERT INTO IOP.SOSTENIMIENTOS_CERTIFICADOS_PROSPECIONES (SCR_FECHA_REGISTRO, SCR_USU_ID)
                 VALUES (GETDATE(), ?); SELECT SCOPE_IDENTITY();
-            """, (usuario_id_carga,), "SOSTENIMIENTOS_CERTIFICADOS_PROSPECIONES")
+            """, (usuario_id_carga,), "SOSTENIMIENTOS_CERTIFICADOS_PROSPECIONES", fila_excel=fila_excel)
 
 
             # Se obtienen valores para realizar el insert en la tabla de OPERACIONES_COMERCIALES
             emp_id = buscar_id_por_like(cursor,
                 "SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ?",
                 row.get("EMPRESA", ""),
-                "EMPRESA")
+                "EMPRESA",
+                fila_excel=fila_excel)
             if emp_id is None:
                 registros_omitidos += 1
                 continue
@@ -166,7 +181,8 @@ try:
             cli_id_comercial = buscar_id_por_like(cursor,
                 "SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ?",
                 row.get("EJECUTIVO COMERCIAL", ""),
-                "EJECUTIVO COMERCIAL")
+                "EJECUTIVO COMERCIAL",
+                fila_excel=fila_excel)
             if cli_id_comercial is None:
                 registros_omitidos += 1
                 continue
@@ -174,7 +190,8 @@ try:
             cli_id_prospecto = buscar_id_por_like(cursor,
                 "SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ?",
                 row.get("NOMBRE DEL PROSPECTO", ""),
-                "NOMBRE DEL PROSPECTO")
+                "NOMBRE DEL PROSPECTO",
+                fila_excel=fila_excel)
             if cli_id_prospecto is None:
                 registros_omitidos += 1
                 continue
@@ -190,7 +207,7 @@ try:
                 WHERE PRP_DESCRIPCION LIKE ?
             """
             linea_negocio = row.get('Linea de Negocio LumoSys', '')
-            prp_id = buscar_id_por_like(cursor, query_productos_prospecciones, linea_negocio, "Línea de negocio")
+            prp_id = buscar_id_por_like(cursor, query_productos_prospecciones, linea_negocio, "Línea de negocio",fila_excel=fila_excel)
             if prp_id is None:
                 registros_omitidos += 1
                 continue
@@ -200,7 +217,7 @@ try:
                 WHERE TNO_DESCRIPCION LIKE ?
             """
             sector = row.get('SECTOR', '')
-            tno_id = buscar_id_por_like(cursor, query_tipos_clientes_ordenes, sector, "Sector")
+            tno_id = buscar_id_por_like(cursor, query_tipos_clientes_ordenes, sector, "Sector",fila_excel=fila_excel)
             if tno_id is None:
                 registros_omitidos += 1
                 continue
@@ -287,7 +304,7 @@ try:
                 tno_id,
                 director_usu_id,
                 fecha_estimada_cierre
-            ),"OPERACIONES_COMERCIALES")
+            ),"OPERACIONES_COMERCIALES", fila_excel=fila_excel)
 
 
             # Se realiza el insert a la tabla de Bienes Activos Prospecciones
@@ -303,8 +320,13 @@ try:
             cantidad = row.get("# BIENES", "")
             descripcion = row.get("DESCRIPCIÓN DE LOS BIENES", "")
 
-            elementoscant = cantidad.split("|")
-            elementosdesc = descripcion.split("|")
+            if pd.isna(cantidad) or not str(cantidad).strip() or pd.isna(descripcion) or not str(descripcion).strip():
+                escribir_log(f"No hay bienes en la fila {fila_excel}, se omite la fila completa.")
+                registros_omitidos += 1
+                continue
+
+            elementoscant = str(cantidad).split("|")
+            elementosdesc = str(descripcion).split("|")
 
             for cant, desc in zip(elementoscant,elementosdesc):
                 
@@ -338,20 +360,20 @@ try:
                 """, (
                     opp_id,
                     2,
-                    cant.strip(),
-                    desc.strip(),
+                    str(cant).strip(),
+                    str(desc).strip(),
                     valor_activo,
                     valor_activo,
                     mes_entrega,
                     1,
                     emp_id,                
                     3
-                ),"BIENES_ACTIVOS_PROSPECCIONES")
+                ),"BIENES_ACTIVOS_PROSPECCIONES", fila_excel=fila_excel)
                 valor_activo = 0
 
             
             comentarios = row.get("COMENTARIOS", "")
-            if comentarios.strip():        
+            if str(comentarios).strip():
                 nombre_completo_ejecutivo = row.get("EJECUTIVO COMERCIAL", "")
                 fecha_estimada_flag = 1 if fecha_estimada_cierre else 0  # bit: 1 si existe, 0 si no
 
@@ -376,10 +398,12 @@ try:
                     fecha_estimada_flag,
                     0,  # adjudicada
                     0   # cancelada
-                ), "COMENTARIOS_PROSPECIONES")
+                ), "COMENTARIOS_PROSPECIONES", fila_excel=fila_excel)
+            else:
+                escribir_log(f"No hay comentario en la fila {fila_excel}")                
 
             comentarios14abril = row.get("COMENTARIOS AL 14 DE ABRIL 2024", "")
-            if comentarios14abril.strip():        
+            if pd.notna(comentarios14abril) and str(comentarios14abril).strip():
                 nombre_completo_ejecutivo = row.get("EJECUTIVO COMERCIAL", "")
                 fecha_estimada_flag = 1 if fecha_estimada_cierre else 0  # bit: 1 si existe, 0 si no
 
@@ -404,18 +428,26 @@ try:
                     fecha_estimada_flag,
                     0,  # adjudicada
                     0   # cancelada
-                ), "COMENTARIOS_PROSPECIONES")                
-
+                ), "COMENTARIOS_PROSPECIONES", fila_excel=fila_excel)                
+            else:
+                escribir_log(f"No hay comentario al 14 de abril en la fila {fila_excel}")
 
             conn.commit()
             registros_insertados += 1
             escribir_log("Todo insertado correctamente")
 
-    escribir_log(f"Resumen final:")
-    escribir_log(f"Registros insertados correctamente: {registros_insertados}")
-    escribir_log(f"Registros omitidos por validación: {registros_omitidos}")
-    cursor.close()
-    conn.close()
+    except Exception as e:
+        errores += 1
+        escribir_log(f"Error en fila {index + 1}: {e}")
+        escribir_log(f"Contenido de la fila con error: {row.to_dict()}")
+        conn.rollback()
+        registros_omitidos += 1
+        continue
 
-except Exception as e:
-    escribir_log(f"Error al abrir el Excel: {e}")
+
+escribir_log(f"Resumen final:")
+escribir_log(f"Registros insertados correctamente: {registros_insertados}")
+escribir_log(f"Registros omitidos por validación: {registros_omitidos}")
+
+cursor.close()
+conn.close()
