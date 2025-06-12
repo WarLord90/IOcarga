@@ -15,18 +15,18 @@ def insert_and_get_id(cursor, query, params, descripcion="", fila_excel=None):
         return new_id
     except Exception as e:
         if fila_excel is not None:
-            escribir_log(f"Error al insertar {descripcion} en fila Excel {fila_excel}: {e}")            
+            escribir_log(f"Error al insertar {descripcion} en fila Excel {fila_excel}: {e}", cabecera=True)            
         else:
-            escribir_log(f"Error al insertar {descripcion}: {e}")
+            escribir_log(f"Error al insertar {descripcion}: {e}", cabecera=True)
         return None
     
 def buscar_id_por_like(cursor, query, valor_busqueda, descripcion="", fila_excel=None):
     try:
         if pd.isna(valor_busqueda) or valor_busqueda.strip() == "":
             if fila_excel is not None:
-                escribir_log(f"{descripcion} está vacío o nulo. (fila Excel {fila_excel})")
+                escribir_log(f"{descripcion} está vacío o nulo. (fila Excel {fila_excel})", cabecera=True)
             else:
-                escribir_log(f"{descripcion} está vacío o nulo.")
+                escribir_log(f"{descripcion} está vacío o nulo.", cabecera=True)
             return None
 
         valor_param = f"%{valor_busqueda.strip()}%"
@@ -37,16 +37,16 @@ def buscar_id_por_like(cursor, query, valor_busqueda, descripcion="", fila_excel
             return result[0]
         else:
             if fila_excel is not None:
-                escribir_log(f"{descripcion} no encontrado para '{valor_param}' (fila Excel {fila_excel})")
+                escribir_log(f"{descripcion} no encontrado para '{valor_param}' (fila Excel {fila_excel})", cabecera=True)
             else:
-                escribir_log(f"{descripcion} no encontrado para '{valor_param}'")
+                escribir_log(f"{descripcion} no encontrado para '{valor_param}'", cabecera=True)
             return None
 
     except Exception as e:
         if fila_excel is not None:
-            escribir_log(f"Error al buscar {descripcion} (fila Excel {fila_excel}): {e}")
+            escribir_log(f"Error al buscar {descripcion} (fila Excel {fila_excel}): {e}", cabecera=True)
         else:
-            escribir_log(f"Error al buscar {descripcion}: {e}")
+            escribir_log(f"Error al buscar {descripcion}: {e}", cabecera=True)
         return None
 
 def buscar_director_por_iniciales(cursor, iniciales, rol="DIRECTOR COMERCIAL"):
@@ -93,7 +93,7 @@ def obtener_fecha_estimada_cierre(mes_str, año=2024):
         escribir_log(f"Error al calcular fecha estimada de cierre: {e}")
         return None
 
-def escribir_log(mensaje):
+def escribir_log(mensaje, cabecera=False):
     fecha = datetime.now().strftime("%Y-%m-%d")
     nombre_archivo = f"log_{fecha}.txt"
     ruta_log = os.path.join(os.getcwd(), nombre_archivo)
@@ -101,7 +101,7 @@ def escribir_log(mensaje):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     with open(ruta_log, "a", encoding="utf-8") as f:
-        if "comienza ejecución" in mensaje.lower():
+        if cabecera:
             f.write(f"\n[{timestamp}] ===== COMIENZA EJECUCIÓN =====\n")
             f.write(f"{'=' * 60}\n")
         f.write(f"[{timestamp}] {mensaje}\n")
@@ -310,7 +310,7 @@ for index, row in df.iterrows():
             # Se realiza el insert a la tabla de Bienes Activos Prospecciones
             mes_entrega = obtener_fecha_estimada_cierre(row.get("MES DE ENTREGA", ""))
             if mes_entrega is None:
-                escribir_log("Mes de entrega inválido o no reconocido, se omite la fila.")
+                escribir_log("Mes de entrega inválido o no reconocido, se omite la fila.", cabecera=True)
                 registros_omitidos += 1
                 continue
 
@@ -321,7 +321,7 @@ for index, row in df.iterrows():
             descripcion = row.get("DESCRIPCIÓN DE LOS BIENES", "")
 
             if pd.isna(cantidad) or not str(cantidad).strip() or pd.isna(descripcion) or not str(descripcion).strip():
-                escribir_log(f"No hay bienes en la fila {fila_excel}, se omite la fila completa.")
+                escribir_log(f"No hay bienes en la fila {fila_excel}, se omite la fila completa.", cabecera=True)
                 registros_omitidos += 1
                 continue
 
@@ -400,7 +400,7 @@ for index, row in df.iterrows():
                     0   # cancelada
                 ), "COMENTARIOS_PROSPECIONES", fila_excel=fila_excel)
             else:
-                escribir_log(f"No hay comentario en la fila {fila_excel}")                
+                escribir_log(f"No hay comentario en la fila {fila_excel}", cabecera=True)                
 
             comentarios14abril = row.get("COMENTARIOS AL 14 DE ABRIL 2024", "")
             if pd.notna(comentarios14abril) and str(comentarios14abril).strip():
@@ -430,11 +430,11 @@ for index, row in df.iterrows():
                     0   # cancelada
                 ), "COMENTARIOS_PROSPECIONES", fila_excel=fila_excel)                
             else:
-                escribir_log(f"No hay comentario al 14 de abril en la fila {fila_excel}")
+                escribir_log(f"No hay comentario al 14 de abril en la fila {fila_excel}", cabecera=True)
 
             conn.commit()
             registros_insertados += 1
-            escribir_log("Todo insertado correctamente")
+            escribir_log("Todo insertado correctamente", cabecera=True)
 
     except Exception as e:
         errores += 1
@@ -445,9 +445,9 @@ for index, row in df.iterrows():
         continue
 
 
-escribir_log(f"Resumen final:")
-escribir_log(f"Registros insertados correctamente: {registros_insertados}")
-escribir_log(f"Registros omitidos por validación: {registros_omitidos}")
+escribir_log(f"Resumen final:", cabecera=True)
+escribir_log(f"Registros insertados correctamente: {registros_insertados}", cabecera=True)
+escribir_log(f"Registros omitidos por validación: {registros_omitidos}", cabecera=True)
 
 cursor.close()
 conn.close()
