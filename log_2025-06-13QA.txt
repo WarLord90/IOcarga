@@ -1,0 +1,254 @@
+2025-06-13 12:50:01 - =============== COMIENZA EJECUCIÓN - Procesando fila 1
+2025-06-13 12:50:02 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:02 - =============== COMIENZA EJECUCIÓN - Procesando fila 2
+2025-06-13 12:50:02 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:02 - =============== COMIENZA EJECUCIÓN - Procesando fila 3
+2025-06-13 12:50:02 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:02 - =============== COMIENZA EJECUCIÓN - Procesando fila 4
+2025-06-13 12:50:03 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 5
+2025-06-13 12:50:03 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 6
+2025-06-13 12:50:03 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 7
+2025-06-13 12:50:04 - NOMBRE DEL PROSPECTO no encontrado para '%YOSHIO MARTINEZ%' (fila Excel 7)
+2025-06-13 12:50:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 8
+2025-06-13 12:50:04 - NOMBRE DEL PROSPECTO no encontrado para '%VARPA AUTOMOTORES%' (fila Excel 8)
+2025-06-13 12:50:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 9
+2025-06-13 12:50:04 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 10
+2025-06-13 12:50:05 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 11
+2025-06-13 12:50:05 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 12
+2025-06-13 12:50:05 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 13
+2025-06-13 12:50:06 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 14
+2025-06-13 12:50:06 - NOMBRE DEL PROSPECTO no encontrado para '%AUTOMAX LAGUNA%' (fila Excel 14)
+2025-06-13 12:50:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 15
+2025-06-13 12:50:06 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 16
+2025-06-13 12:50:07 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 17
+2025-06-13 12:50:07 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 18
+2025-06-13 12:50:07 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 19
+2025-06-13 12:50:08 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 21
+2025-06-13 12:50:08 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 22
+2025-06-13 12:50:08 - NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES FREIGHLINER%' (fila Excel 22)
+2025-06-13 12:50:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 23
+2025-06-13 12:50:09 - NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES 5 TONELADAS%' (fila Excel 23)
+2025-06-13 12:50:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 24
+2025-06-13 12:50:09 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 25
+2025-06-13 12:50:09 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 27
+2025-06-13 12:50:10 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 28
+2025-06-13 12:50:10 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 29
+2025-06-13 12:50:11 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 30
+2025-06-13 12:50:11 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 31
+2025-06-13 12:50:11 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 32
+2025-06-13 12:50:12 - NOMBRE DEL PROSPECTO no encontrado para '%SADER FERTILIZANTES%' (fila Excel 32)
+2025-06-13 12:50:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 33
+2025-06-13 12:50:12 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 34
+2025-06-13 12:50:12 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 35
+2025-06-13 12:50:13 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 36
+2025-06-13 12:50:13 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 37
+2025-06-13 12:50:13 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 38
+2025-06-13 12:50:14 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 39
+2025-06-13 12:50:14 - DIRECTOR COMERCIAL no encontrado con iniciales: GA
+2025-06-13 12:50:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 40
+2025-06-13 12:50:14 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 41
+2025-06-13 12:50:15 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:15 - =============== COMIENZA EJECUCIÓN - Procesando fila 42
+2025-06-13 12:50:15 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:15 - =============== COMIENZA EJECUCIÓN - Procesando fila 43
+2025-06-13 12:50:16 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:16 - =============== COMIENZA EJECUCIÓN - Procesando fila 44
+2025-06-13 12:50:16 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:16 - =============== COMIENZA EJECUCIÓN - Procesando fila 45
+2025-06-13 12:50:16 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:16 - =============== COMIENZA EJECUCIÓN - Procesando fila 46
+2025-06-13 12:50:16 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:16 - =============== COMIENZA EJECUCIÓN - Procesando fila 47
+2025-06-13 12:50:17 - NOMBRE DEL PROSPECTO no encontrado para '%OTHON P. BLANCO%' (fila Excel 47)
+2025-06-13 12:50:17 - =============== COMIENZA EJECUCIÓN - Procesando fila 52
+2025-06-13 12:50:17 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:17 - =============== COMIENZA EJECUCIÓN - Procesando fila 53
+2025-06-13 12:50:17 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:17 - =============== COMIENZA EJECUCIÓN - Procesando fila 55
+2025-06-13 12:50:18 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:18 - =============== COMIENZA EJECUCIÓN - Procesando fila 57
+2025-06-13 12:50:18 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:18 - =============== COMIENZA EJECUCIÓN - Procesando fila 58
+2025-06-13 12:50:18 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 58)
+2025-06-13 12:50:18 - =============== COMIENZA EJECUCIÓN - Procesando fila 59
+2025-06-13 12:50:19 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 59)
+2025-06-13 12:50:19 - =============== COMIENZA EJECUCIÓN - Procesando fila 60
+2025-06-13 12:50:19 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 60)
+2025-06-13 12:50:19 - =============== COMIENZA EJECUCIÓN - Procesando fila 61
+2025-06-13 12:50:19 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE ATIZAPÁN%' (fila Excel 61)
+2025-06-13 12:50:19 - =============== COMIENZA EJECUCIÓN - Procesando fila 62
+2025-06-13 12:50:20 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 63
+2025-06-13 12:50:20 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 64
+2025-06-13 12:50:20 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 65
+2025-06-13 12:50:21 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:21 - =============== COMIENZA EJECUCIÓN - Procesando fila 66
+2025-06-13 12:50:21 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:21 - =============== COMIENZA EJECUCIÓN - Procesando fila 67
+2025-06-13 12:50:22 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:22 - =============== COMIENZA EJECUCIÓN - Procesando fila 68
+2025-06-13 12:50:22 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:22 - =============== COMIENZA EJECUCIÓN - Procesando fila 69
+2025-06-13 12:50:22 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:22 - =============== COMIENZA EJECUCIÓN - Procesando fila 70
+2025-06-13 12:50:23 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:23 - =============== COMIENZA EJECUCIÓN - Procesando fila 71
+2025-06-13 12:50:23 - NOMBRE DEL PROSPECTO no encontrado para '%TV CABLE GUADIANA SA DECV%' (fila Excel 71)
+2025-06-13 12:50:23 - =============== COMIENZA EJECUCIÓN - Procesando fila 72
+2025-06-13 12:50:23 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:23 - =============== COMIENZA EJECUCIÓN - Procesando fila 73
+2025-06-13 12:50:24 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:24 - =============== COMIENZA EJECUCIÓN - Procesando fila 74
+2025-06-13 12:50:24 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:24 - =============== COMIENZA EJECUCIÓN - Procesando fila 75
+2025-06-13 12:50:24 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:24 - =============== COMIENZA EJECUCIÓN - Procesando fila 76
+2025-06-13 12:50:25 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE ATIZAPÁN%' (fila Excel 76)
+2025-06-13 12:50:25 - =============== COMIENZA EJECUCIÓN - Procesando fila 77
+2025-06-13 12:50:25 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:25 - =============== COMIENZA EJECUCIÓN - Procesando fila 78
+2025-06-13 12:50:25 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:25 - =============== COMIENZA EJECUCIÓN - Procesando fila 79
+2025-06-13 12:50:26 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:26 - =============== COMIENZA EJECUCIÓN - Procesando fila 80
+2025-06-13 12:50:26 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO
+CHIMALHUACAN%' (fila Excel 80)
+2025-06-13 12:50:26 - =============== COMIENZA EJECUCIÓN - Procesando fila 81
+2025-06-13 12:50:26 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:26 - =============== COMIENZA EJECUCIÓN - Procesando fila 82
+2025-06-13 12:50:27 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:27 - =============== COMIENZA EJECUCIÓN - Procesando fila 83
+2025-06-13 12:50:27 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:27 - =============== COMIENZA EJECUCIÓN - Procesando fila 84
+2025-06-13 12:50:27 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:27 - =============== COMIENZA EJECUCIÓN - Procesando fila 85
+2025-06-13 12:50:28 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:28 - =============== COMIENZA EJECUCIÓN - Procesando fila 86
+2025-06-13 12:50:28 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:28 - =============== COMIENZA EJECUCIÓN - Procesando fila 87
+2025-06-13 12:50:29 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:29 - =============== COMIENZA EJECUCIÓN - Procesando fila 88
+2025-06-13 12:50:29 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:29 - =============== COMIENZA EJECUCIÓN - Procesando fila 89
+2025-06-13 12:50:29 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:29 - =============== COMIENZA EJECUCIÓN - Procesando fila 90
+2025-06-13 12:50:30 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO
+DE MALINALCO%' (fila Excel 90)
+2025-06-13 12:50:30 - =============== COMIENZA EJECUCIÓN - Procesando fila 91
+2025-06-13 12:50:30 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:30 - =============== COMIENZA EJECUCIÓN - Procesando fila 92
+2025-06-13 12:50:30 - NOMBRE DEL PROSPECTO no encontrado para '%SERGIO SANCHEZ NUÑEZ%' (fila Excel 92)
+2025-06-13 12:50:30 - =============== COMIENZA EJECUCIÓN - Procesando fila 93
+2025-06-13 12:50:31 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:31 - =============== COMIENZA EJECUCIÓN - Procesando fila 94
+2025-06-13 12:50:31 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:31 - =============== COMIENZA EJECUCIÓN - Procesando fila 95
+2025-06-13 12:50:31 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:31 - =============== COMIENZA EJECUCIÓN - Procesando fila 96
+2025-06-13 12:50:32 - NOMBRE DEL PROSPECTO no encontrado para '%SERGIO SANCHEZ NUÑEZ%' (fila Excel 96)
+2025-06-13 12:50:32 - =============== COMIENZA EJECUCIÓN - Procesando fila 97
+2025-06-13 12:50:32 - DIRECTOR COMERCIAL no encontrado con iniciales: NR
+2025-06-13 12:50:32 - =============== COMIENZA EJECUCIÓN - Procesando fila 98
+2025-06-13 12:50:32 - NOMBRE DEL PROSPECTO no encontrado para '%POLICÍA AUXILIAR DEL GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO%' (fila Excel 98)
+2025-06-13 12:50:32 - =============== COMIENZA EJECUCIÓN - Procesando fila 99
+2025-06-13 12:50:33 - NOMBRE DEL PROSPECTO no encontrado para '%POLICÍA AUXILIAR DEL GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO%' (fila Excel 99)
+2025-06-13 12:50:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 100
+2025-06-13 12:50:33 - NOMBRE DEL PROSPECTO no encontrado para '%UNIV. POPULAR DE LA CHONTALPA%' (fila Excel 100)
+2025-06-13 12:50:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 101
+2025-06-13 12:50:33 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 102
+2025-06-13 12:50:34 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 103
+2025-06-13 12:50:34 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 104
+2025-06-13 12:50:34 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 104)
+2025-06-13 12:50:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 105
+2025-06-13 12:50:35 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 106
+2025-06-13 12:50:35 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 107
+2025-06-13 12:50:35 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 108
+2025-06-13 12:50:36 - NOMBRE DEL PROSPECTO no encontrado para '%RICARDO ACOSTA SANCHEZ%' (fila Excel 108)
+2025-06-13 12:50:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 109
+2025-06-13 12:50:36 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 110
+2025-06-13 12:50:36 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 110)
+2025-06-13 12:50:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 111
+2025-06-13 12:50:37 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 111)
+2025-06-13 12:50:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 112
+2025-06-13 12:50:37 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 112)
+2025-06-13 12:50:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 113
+2025-06-13 12:50:37 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 114
+2025-06-13 12:50:38 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 115
+2025-06-13 12:50:38 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 116
+2025-06-13 12:50:38 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 117
+2025-06-13 12:50:39 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 118
+2025-06-13 12:50:39 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 119
+2025-06-13 12:50:39 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 120
+2025-06-13 12:50:39 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 121
+2025-06-13 12:50:40 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 122
+2025-06-13 12:50:40 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-13 12:50:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 123
+2025-06-13 12:50:40 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-13 12:50:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 124
+2025-06-13 12:50:41 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-13 12:50:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 125
+2025-06-13 12:50:41 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-13 12:50:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 127
+2025-06-13 12:50:41 - NOMBRE DEL PROSPECTO no encontrado para '%REPARTO Y PAQUETERIA MAC SA DE CV%' (fila Excel 127)
+2025-06-13 12:50:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 128
+2025-06-13 12:50:42 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-13 12:50:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 129
+2025-06-13 12:50:42 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-13 12:50:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 130
+2025-06-13 12:50:43 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-13 12:50:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 131
+2025-06-13 12:50:43 - NOMBRE DEL PROSPECTO no encontrado para '%MUULK MOVILIDAD SA DE CV%' (fila Excel 131)
+2025-06-13 12:50:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 132
+2025-06-13 12:50:43 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-13 12:50:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 133
+2025-06-13 12:50:44 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-13 12:50:44 - Resumen final:
+2025-06-13 12:50:44 - Registros insertados correctamente: 0
+2025-06-13 12:50:44 - Registros omitidos por validación: 124
+2025-06-13 12:50:44 ============================================================

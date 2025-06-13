@@ -1,0 +1,599 @@
+
+2025-06-13 16:42:56 - =============== COMIENZA EJECUCIÓN - Procesando fila 1
+2025-06-13 16:42:56 - No hay comentario en la fila 1
+2025-06-13 16:42:57 - Todo insertado correctamente
+2025-06-13 16:42:57 ============================================================
+2025-06-13 16:42:57 - =============== COMIENZA EJECUCIÓN - Procesando fila 2
+2025-06-13 16:42:57 - No hay comentario en la fila 2
+2025-06-13 16:42:57 - Todo insertado correctamente
+2025-06-13 16:42:57 ============================================================
+2025-06-13 16:42:57 - =============== COMIENZA EJECUCIÓN - Procesando fila 3
+2025-06-13 16:42:58 - No hay comentario en la fila 3
+2025-06-13 16:42:58 - No hay comentario al 14 de abril en la fila 3
+2025-06-13 16:42:58 - Todo insertado correctamente
+2025-06-13 16:42:58 ============================================================
+2025-06-13 16:42:58 - =============== COMIENZA EJECUCIÓN - Procesando fila 4
+2025-06-13 16:42:58 - No hay comentario en la fila 4
+2025-06-13 16:42:58 - Todo insertado correctamente
+2025-06-13 16:42:58 ============================================================
+2025-06-13 16:42:58 - =============== COMIENZA EJECUCIÓN - Procesando fila 5
+2025-06-13 16:42:59 - No hay comentario en la fila 5
+2025-06-13 16:42:59 - Todo insertado correctamente
+2025-06-13 16:42:59 ============================================================
+2025-06-13 16:42:59 - =============== COMIENZA EJECUCIÓN - Procesando fila 6
+2025-06-13 16:42:59 - No hay comentario en la fila 6
+2025-06-13 16:42:59 - Todo insertado correctamente
+2025-06-13 16:42:59 ============================================================
+2025-06-13 16:42:59 - =============== COMIENZA EJECUCIÓN - Procesando fila 7
+2025-06-13 16:43:00 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 7: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:00 - No hay comentario en la fila 7
+2025-06-13 16:43:00 - No hay comentario al 14 de abril en la fila 7
+2025-06-13 16:43:00 - Todo insertado correctamente
+2025-06-13 16:43:00 ============================================================
+2025-06-13 16:43:00 - =============== COMIENZA EJECUCIÓN - Procesando fila 8
+2025-06-13 16:43:00 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 8: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:01 - No hay comentario en la fila 8
+2025-06-13 16:43:01 - No hay comentario al 14 de abril en la fila 8
+2025-06-13 16:43:01 - Todo insertado correctamente
+2025-06-13 16:43:01 ============================================================
+2025-06-13 16:43:01 - =============== COMIENZA EJECUCIÓN - Procesando fila 9
+2025-06-13 16:43:01 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 9: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:01 - No hay comentario en la fila 9
+2025-06-13 16:43:01 - No hay comentario al 14 de abril en la fila 9
+2025-06-13 16:43:01 - Todo insertado correctamente
+2025-06-13 16:43:01 ============================================================
+2025-06-13 16:43:01 - =============== COMIENZA EJECUCIÓN - Procesando fila 10
+2025-06-13 16:43:02 - Línea de negocio no encontrado para '%VENTA NUEVOS%' (fila Excel 10)
+2025-06-13 16:43:02 - =============== COMIENZA EJECUCIÓN - Procesando fila 11
+2025-06-13 16:43:02 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 11: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:02 - No hay comentario en la fila 11
+2025-06-13 16:43:02 - No hay comentario al 14 de abril en la fila 11
+2025-06-13 16:43:02 - Todo insertado correctamente
+2025-06-13 16:43:02 ============================================================
+2025-06-13 16:43:02 - =============== COMIENZA EJECUCIÓN - Procesando fila 12
+2025-06-13 16:43:03 - No hay comentario en la fila 12
+2025-06-13 16:43:03 - Todo insertado correctamente
+2025-06-13 16:43:03 ============================================================
+2025-06-13 16:43:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 13
+2025-06-13 16:43:03 - No hay comentario en la fila 13
+2025-06-13 16:43:03 - Todo insertado correctamente
+2025-06-13 16:43:03 ============================================================
+2025-06-13 16:43:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 14
+2025-06-13 16:43:04 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 14: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:04 - No hay comentario en la fila 14
+2025-06-13 16:43:04 - No hay comentario al 14 de abril en la fila 14
+2025-06-13 16:43:04 - Todo insertado correctamente
+2025-06-13 16:43:04 ============================================================
+2025-06-13 16:43:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 15
+2025-06-13 16:43:05 - No hay comentario en la fila 15
+2025-06-13 16:43:05 - Todo insertado correctamente
+2025-06-13 16:43:05 ============================================================
+2025-06-13 16:43:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 16
+2025-06-13 16:43:05 - No hay comentario en la fila 16
+2025-06-13 16:43:05 - Todo insertado correctamente
+2025-06-13 16:43:05 ============================================================
+2025-06-13 16:43:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 17
+2025-06-13 16:43:06 - No hay comentario en la fila 17
+2025-06-13 16:43:06 - Todo insertado correctamente
+2025-06-13 16:43:06 ============================================================
+2025-06-13 16:43:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 18
+2025-06-13 16:43:07 - No hay comentario en la fila 18
+2025-06-13 16:43:07 - Todo insertado correctamente
+2025-06-13 16:43:07 ============================================================
+2025-06-13 16:43:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 19
+2025-06-13 16:43:07 - No hay comentario en la fila 19
+2025-06-13 16:43:07 - Todo insertado correctamente
+2025-06-13 16:43:07 ============================================================
+2025-06-13 16:43:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 20
+2025-06-13 16:43:08 - No hay comentario en la fila 20
+2025-06-13 16:43:08 - No hay comentario al 14 de abril en la fila 20
+2025-06-13 16:43:08 - Todo insertado correctamente
+2025-06-13 16:43:08 ============================================================
+2025-06-13 16:43:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 22
+2025-06-13 16:43:08 - No hay comentario en la fila 22
+2025-06-13 16:43:09 - Todo insertado correctamente
+2025-06-13 16:43:09 ============================================================
+2025-06-13 16:43:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 23
+2025-06-13 16:43:09 - No hay comentario en la fila 23
+2025-06-13 16:43:09 - Todo insertado correctamente
+2025-06-13 16:43:09 ============================================================
+2025-06-13 16:43:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 24
+2025-06-13 16:43:10 - No hay comentario en la fila 24
+2025-06-13 16:43:10 - No hay comentario al 14 de abril en la fila 24
+2025-06-13 16:43:10 - Todo insertado correctamente
+2025-06-13 16:43:10 ============================================================
+2025-06-13 16:43:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 25
+2025-06-13 16:43:10 - No hay comentario en la fila 25
+2025-06-13 16:43:10 - Todo insertado correctamente
+2025-06-13 16:43:10 ============================================================
+2025-06-13 16:43:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 26
+2025-06-13 16:43:11 - No hay comentario en la fila 26
+2025-06-13 16:43:11 - Todo insertado correctamente
+2025-06-13 16:43:11 ============================================================
+2025-06-13 16:43:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 29
+2025-06-13 16:43:11 - No hay comentario en la fila 29
+2025-06-13 16:43:11 - Todo insertado correctamente
+2025-06-13 16:43:11 ============================================================
+2025-06-13 16:43:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 30
+2025-06-13 16:43:12 - No hay comentario en la fila 30
+2025-06-13 16:43:12 - Todo insertado correctamente
+2025-06-13 16:43:12 ============================================================
+2025-06-13 16:43:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 31
+2025-06-13 16:43:13 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 31: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:13 - No hay comentario en la fila 31
+2025-06-13 16:43:13 - No hay comentario al 14 de abril en la fila 31
+2025-06-13 16:43:13 - Todo insertado correctamente
+2025-06-13 16:43:13 ============================================================
+2025-06-13 16:43:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 32
+2025-06-13 16:43:13 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 32: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:13 - No hay comentario en la fila 32
+2025-06-13 16:43:13 - No hay comentario al 14 de abril en la fila 32
+2025-06-13 16:43:13 - Todo insertado correctamente
+2025-06-13 16:43:13 ============================================================
+2025-06-13 16:43:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 33
+2025-06-13 16:43:14 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 33: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:14 - No hay comentario en la fila 33
+2025-06-13 16:43:14 - Todo insertado correctamente
+2025-06-13 16:43:14 ============================================================
+2025-06-13 16:43:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 34
+2025-06-13 16:43:15 - No hay comentario en la fila 34
+2025-06-13 16:43:15 - Todo insertado correctamente
+2025-06-13 16:43:15 ============================================================
+2025-06-13 16:43:15 - =============== COMIENZA EJECUCIÓN - Procesando fila 35
+2025-06-13 16:43:15 - No hay comentario en la fila 35
+2025-06-13 16:43:15 - Todo insertado correctamente
+2025-06-13 16:43:15 ============================================================
+2025-06-13 16:43:15 - =============== COMIENZA EJECUCIÓN - Procesando fila 36
+2025-06-13 16:43:16 - No hay comentario en la fila 36
+2025-06-13 16:43:16 - Todo insertado correctamente
+2025-06-13 16:43:16 ============================================================
+2025-06-13 16:43:16 - =============== COMIENZA EJECUCIÓN - Procesando fila 37
+2025-06-13 16:43:17 - No hay comentario en la fila 37
+2025-06-13 16:43:17 - Todo insertado correctamente
+2025-06-13 16:43:17 ============================================================
+2025-06-13 16:43:17 - =============== COMIENZA EJECUCIÓN - Procesando fila 38
+2025-06-13 16:43:17 - No hay comentario en la fila 38
+2025-06-13 16:43:17 - Todo insertado correctamente
+2025-06-13 16:43:17 ============================================================
+2025-06-13 16:43:17 - =============== COMIENZA EJECUCIÓN - Procesando fila 39
+2025-06-13 16:43:18 - No hay comentario en la fila 39
+2025-06-13 16:43:18 - Todo insertado correctamente
+2025-06-13 16:43:18 ============================================================
+2025-06-13 16:43:18 - =============== COMIENZA EJECUCIÓN - Procesando fila 40
+2025-06-13 16:43:19 - No hay comentario en la fila 40
+2025-06-13 16:43:19 - Todo insertado correctamente
+2025-06-13 16:43:19 ============================================================
+2025-06-13 16:43:19 - =============== COMIENZA EJECUCIÓN - Procesando fila 42
+2025-06-13 16:43:20 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 42: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:20 - No hay comentario en la fila 42
+2025-06-13 16:43:20 - Todo insertado correctamente
+2025-06-13 16:43:20 ============================================================
+2025-06-13 16:43:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 43
+2025-06-13 16:43:20 - No hay comentario en la fila 43
+2025-06-13 16:43:20 - Todo insertado correctamente
+2025-06-13 16:43:20 ============================================================
+2025-06-13 16:43:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 44
+2025-06-13 16:43:21 - No hay comentario en la fila 44
+2025-06-13 16:43:21 - No hay comentario al 14 de abril en la fila 44
+2025-06-13 16:43:21 - Todo insertado correctamente
+2025-06-13 16:43:21 ============================================================
+2025-06-13 16:43:21 - =============== COMIENZA EJECUCIÓN - Procesando fila 45
+2025-06-13 16:43:21 - No hay comentario en la fila 45
+2025-06-13 16:43:21 - No hay comentario al 14 de abril en la fila 45
+2025-06-13 16:43:22 - Todo insertado correctamente
+2025-06-13 16:43:22 ============================================================
+2025-06-13 16:43:22 - =============== COMIENZA EJECUCIÓN - Procesando fila 46
+2025-06-13 16:43:22 - No hay comentario en la fila 46
+2025-06-13 16:43:22 - No hay comentario al 14 de abril en la fila 46
+2025-06-13 16:43:22 - Todo insertado correctamente
+2025-06-13 16:43:22 ============================================================
+2025-06-13 16:43:22 - =============== COMIENZA EJECUCIÓN - Procesando fila 47
+2025-06-13 16:43:23 - No hay comentario en la fila 47
+2025-06-13 16:43:23 - No hay comentario al 14 de abril en la fila 47
+2025-06-13 16:43:23 - Todo insertado correctamente
+2025-06-13 16:43:23 ============================================================
+2025-06-13 16:43:23 - =============== COMIENZA EJECUCIÓN - Procesando fila 48
+2025-06-13 16:43:23 - Error al insertar BIENES_ACTIVOS_PROSPECCIONES en fila Excel 48: ('22001', '[22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW); [22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+2025-06-13 16:43:23 - Error al insertar BIENES_ACTIVOS_PROSPECCIONES en fila Excel 48: ('22001', '[22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW); [22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+2025-06-13 16:43:23 - Error al insertar BIENES_ACTIVOS_PROSPECCIONES en fila Excel 48: ('22001', '[22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW); [22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+2025-06-13 16:43:23 - Error al insertar BIENES_ACTIVOS_PROSPECCIONES en fila Excel 48: ('22001', '[22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW); [22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+2025-06-13 16:43:23 - Error al insertar BIENES_ACTIVOS_PROSPECCIONES en fila Excel 48: ('22001', '[22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW); [22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+2025-06-13 16:43:23 - No hay comentario en la fila 48
+2025-06-13 16:43:23 - No hay comentario al 14 de abril en la fila 48
+2025-06-13 16:43:23 - Todo insertado correctamente
+2025-06-13 16:43:23 ============================================================
+2025-06-13 16:43:23 - =============== COMIENZA EJECUCIÓN - Procesando fila 49
+2025-06-13 16:43:24 - No hay comentario en la fila 49
+2025-06-13 16:43:24 - No hay comentario al 14 de abril en la fila 49
+2025-06-13 16:43:24 - Todo insertado correctamente
+2025-06-13 16:43:24 ============================================================
+2025-06-13 16:43:24 - =============== COMIENZA EJECUCIÓN - Procesando fila 50
+2025-06-13 16:43:24 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 50: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:25 - No hay comentario en la fila 50
+2025-06-13 16:43:25 - Todo insertado correctamente
+2025-06-13 16:43:25 ============================================================
+2025-06-13 16:43:25 - =============== COMIENZA EJECUCIÓN - Procesando fila 51
+2025-06-13 16:43:25 - No hay comentario en la fila 51
+2025-06-13 16:43:25 - No hay comentario al 14 de abril en la fila 51
+2025-06-13 16:43:25 - Todo insertado correctamente
+2025-06-13 16:43:25 ============================================================
+2025-06-13 16:43:25 - =============== COMIENZA EJECUCIÓN - Procesando fila 57
+2025-06-13 16:43:26 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 57: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:26 - No hay comentario en la fila 57
+2025-06-13 16:43:26 - No hay comentario al 14 de abril en la fila 57
+2025-06-13 16:43:26 - Todo insertado correctamente
+2025-06-13 16:43:26 ============================================================
+2025-06-13 16:43:26 - =============== COMIENZA EJECUCIÓN - Procesando fila 58
+2025-06-13 16:43:26 - No hay comentario en la fila 58
+2025-06-13 16:43:26 - No hay comentario al 14 de abril en la fila 58
+2025-06-13 16:43:26 - Todo insertado correctamente
+2025-06-13 16:43:26 ============================================================
+2025-06-13 16:43:26 - =============== COMIENZA EJECUCIÓN - Procesando fila 60
+2025-06-13 16:43:27 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 60: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:27 - No hay bienes en la fila 60, se omite la fila completa.
+2025-06-13 16:43:27 - =============== COMIENZA EJECUCIÓN - Procesando fila 62
+2025-06-13 16:43:27 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 62: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:27 - No hay bienes en la fila 62, se omite la fila completa.
+2025-06-13 16:43:27 - =============== COMIENZA EJECUCIÓN - Procesando fila 63
+2025-06-13 16:43:28 - No hay comentario en la fila 63
+2025-06-13 16:43:28 - No hay comentario al 14 de abril en la fila 63
+2025-06-13 16:43:28 - Todo insertado correctamente
+2025-06-13 16:43:28 ============================================================
+2025-06-13 16:43:28 - =============== COMIENZA EJECUCIÓN - Procesando fila 64
+2025-06-13 16:43:29 - No hay comentario en la fila 64
+2025-06-13 16:43:29 - No hay comentario al 14 de abril en la fila 64
+2025-06-13 16:43:29 - Todo insertado correctamente
+2025-06-13 16:43:29 ============================================================
+2025-06-13 16:43:29 - =============== COMIENZA EJECUCIÓN - Procesando fila 65
+2025-06-13 16:43:29 - No hay comentario en la fila 65
+2025-06-13 16:43:29 - No hay comentario al 14 de abril en la fila 65
+2025-06-13 16:43:29 - Todo insertado correctamente
+2025-06-13 16:43:29 ============================================================
+2025-06-13 16:43:29 - =============== COMIENZA EJECUCIÓN - Procesando fila 66
+2025-06-13 16:43:30 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 66: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:30 - No hay comentario en la fila 66
+2025-06-13 16:43:30 - No hay comentario al 14 de abril en la fila 66
+2025-06-13 16:43:30 - Todo insertado correctamente
+2025-06-13 16:43:30 ============================================================
+2025-06-13 16:43:30 - =============== COMIENZA EJECUCIÓN - Procesando fila 67
+2025-06-13 16:43:31 - Error al insertar BIENES_ACTIVOS_PROSPECCIONES en fila Excel 67: ('22001', '[22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW); [22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+2025-06-13 16:43:31 - No hay comentario en la fila 67
+2025-06-13 16:43:31 - No hay comentario al 14 de abril en la fila 67
+2025-06-13 16:43:31 - Todo insertado correctamente
+2025-06-13 16:43:31 ============================================================
+2025-06-13 16:43:31 - =============== COMIENZA EJECUCIÓN - Procesando fila 68
+2025-06-13 16:43:31 - No hay comentario en la fila 68
+2025-06-13 16:43:31 - No hay comentario al 14 de abril en la fila 68
+2025-06-13 16:43:31 - Todo insertado correctamente
+2025-06-13 16:43:31 ============================================================
+2025-06-13 16:43:31 - =============== COMIENZA EJECUCIÓN - Procesando fila 69
+2025-06-13 16:43:32 - Sector está vacío o nulo. (fila Excel 69)
+2025-06-13 16:43:32 - =============== COMIENZA EJECUCIÓN - Procesando fila 70
+2025-06-13 16:43:32 - No hay comentario en la fila 70
+2025-06-13 16:43:32 - No hay comentario al 14 de abril en la fila 70
+2025-06-13 16:43:32 - Todo insertado correctamente
+2025-06-13 16:43:32 ============================================================
+2025-06-13 16:43:32 - =============== COMIENZA EJECUCIÓN - Procesando fila 71
+2025-06-13 16:43:33 - No hay comentario en la fila 71
+2025-06-13 16:43:33 - No hay comentario al 14 de abril en la fila 71
+2025-06-13 16:43:33 - Todo insertado correctamente
+2025-06-13 16:43:33 ============================================================
+2025-06-13 16:43:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 72
+2025-06-13 16:43:33 - No hay comentario en la fila 72
+2025-06-13 16:43:33 - No hay comentario al 14 de abril en la fila 72
+2025-06-13 16:43:33 - Todo insertado correctamente
+2025-06-13 16:43:33 ============================================================
+2025-06-13 16:43:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 73
+2025-06-13 16:43:34 - No hay comentario en la fila 73
+2025-06-13 16:43:34 - No hay comentario al 14 de abril en la fila 73
+2025-06-13 16:43:34 - Todo insertado correctamente
+2025-06-13 16:43:34 ============================================================
+2025-06-13 16:43:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 74
+2025-06-13 16:43:34 - No hay comentario en la fila 74
+2025-06-13 16:43:34 - No hay comentario al 14 de abril en la fila 74
+2025-06-13 16:43:34 - Todo insertado correctamente
+2025-06-13 16:43:34 ============================================================
+2025-06-13 16:43:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 75
+2025-06-13 16:43:35 - No hay comentario en la fila 75
+2025-06-13 16:43:35 - No hay comentario al 14 de abril en la fila 75
+2025-06-13 16:43:35 - Todo insertado correctamente
+2025-06-13 16:43:35 ============================================================
+2025-06-13 16:43:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 76
+2025-06-13 16:43:36 - No hay comentario en la fila 76
+2025-06-13 16:43:36 - No hay comentario al 14 de abril en la fila 76
+2025-06-13 16:43:36 - Todo insertado correctamente
+2025-06-13 16:43:36 ============================================================
+2025-06-13 16:43:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 77
+2025-06-13 16:43:36 - No hay comentario en la fila 77
+2025-06-13 16:43:36 - No hay comentario al 14 de abril en la fila 77
+2025-06-13 16:43:36 - Todo insertado correctamente
+2025-06-13 16:43:36 ============================================================
+2025-06-13 16:43:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 78
+2025-06-13 16:43:37 - No hay comentario en la fila 78
+2025-06-13 16:43:37 - No hay comentario al 14 de abril en la fila 78
+2025-06-13 16:43:37 - Todo insertado correctamente
+2025-06-13 16:43:37 ============================================================
+2025-06-13 16:43:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 79
+2025-06-13 16:43:37 - No hay comentario en la fila 79
+2025-06-13 16:43:37 - No hay comentario al 14 de abril en la fila 79
+2025-06-13 16:43:37 - Todo insertado correctamente
+2025-06-13 16:43:37 ============================================================
+2025-06-13 16:43:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 80
+2025-06-13 16:43:38 - No hay comentario en la fila 80
+2025-06-13 16:43:38 - No hay comentario al 14 de abril en la fila 80
+2025-06-13 16:43:38 - Todo insertado correctamente
+2025-06-13 16:43:38 ============================================================
+2025-06-13 16:43:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 81
+2025-06-13 16:43:38 - No hay comentario en la fila 81
+2025-06-13 16:43:38 - No hay comentario al 14 de abril en la fila 81
+2025-06-13 16:43:38 - Todo insertado correctamente
+2025-06-13 16:43:38 ============================================================
+2025-06-13 16:43:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 82
+2025-06-13 16:43:39 - Error al insertar BIENES_ACTIVOS_PROSPECCIONES en fila Excel 82: ('22001', '[22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated. (8152) (SQLExecDirectW); [22001] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+2025-06-13 16:43:39 - No hay comentario en la fila 82
+2025-06-13 16:43:39 - No hay comentario al 14 de abril en la fila 82
+2025-06-13 16:43:39 - Todo insertado correctamente
+2025-06-13 16:43:39 ============================================================
+2025-06-13 16:43:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 83
+2025-06-13 16:43:40 - No hay comentario en la fila 83
+2025-06-13 16:43:40 - No hay comentario al 14 de abril en la fila 83
+2025-06-13 16:43:40 - Todo insertado correctamente
+2025-06-13 16:43:40 ============================================================
+2025-06-13 16:43:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 84
+2025-06-13 16:43:40 - No hay comentario en la fila 84
+2025-06-13 16:43:40 - No hay comentario al 14 de abril en la fila 84
+2025-06-13 16:43:40 - Todo insertado correctamente
+2025-06-13 16:43:40 ============================================================
+2025-06-13 16:43:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 85
+2025-06-13 16:43:41 - No hay comentario en la fila 85
+2025-06-13 16:43:41 - No hay comentario al 14 de abril en la fila 85
+2025-06-13 16:43:41 - Todo insertado correctamente
+2025-06-13 16:43:41 ============================================================
+2025-06-13 16:43:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 86
+2025-06-13 16:43:41 - No hay comentario en la fila 86
+2025-06-13 16:43:41 - No hay comentario al 14 de abril en la fila 86
+2025-06-13 16:43:41 - Todo insertado correctamente
+2025-06-13 16:43:41 ============================================================
+2025-06-13 16:43:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 87
+2025-06-13 16:43:42 - No hay comentario en la fila 87
+2025-06-13 16:43:42 - No hay comentario al 14 de abril en la fila 87
+2025-06-13 16:43:42 - Todo insertado correctamente
+2025-06-13 16:43:42 ============================================================
+2025-06-13 16:43:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 88
+2025-06-13 16:43:42 - No hay comentario en la fila 88
+2025-06-13 16:43:42 - No hay comentario al 14 de abril en la fila 88
+2025-06-13 16:43:42 - Todo insertado correctamente
+2025-06-13 16:43:42 ============================================================
+2025-06-13 16:43:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 89
+2025-06-13 16:43:43 - No hay comentario en la fila 89
+2025-06-13 16:43:43 - No hay comentario al 14 de abril en la fila 89
+2025-06-13 16:43:43 - Todo insertado correctamente
+2025-06-13 16:43:43 ============================================================
+2025-06-13 16:43:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 90
+2025-06-13 16:43:43 - No hay comentario en la fila 90
+2025-06-13 16:43:43 - No hay comentario al 14 de abril en la fila 90
+2025-06-13 16:43:43 - Todo insertado correctamente
+2025-06-13 16:43:43 ============================================================
+2025-06-13 16:43:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 91
+2025-06-13 16:43:44 - No hay comentario en la fila 91
+2025-06-13 16:43:44 - No hay comentario al 14 de abril en la fila 91
+2025-06-13 16:43:44 - Todo insertado correctamente
+2025-06-13 16:43:44 ============================================================
+2025-06-13 16:43:44 - =============== COMIENZA EJECUCIÓN - Procesando fila 92
+2025-06-13 16:43:45 - No hay comentario en la fila 92
+2025-06-13 16:43:45 - No hay comentario al 14 de abril en la fila 92
+2025-06-13 16:43:45 - Todo insertado correctamente
+2025-06-13 16:43:45 ============================================================
+2025-06-13 16:43:45 - =============== COMIENZA EJECUCIÓN - Procesando fila 93
+2025-06-13 16:43:45 - No hay comentario en la fila 93
+2025-06-13 16:43:45 - No hay comentario al 14 de abril en la fila 93
+2025-06-13 16:43:45 - Todo insertado correctamente
+2025-06-13 16:43:45 ============================================================
+2025-06-13 16:43:45 - =============== COMIENZA EJECUCIÓN - Procesando fila 94
+2025-06-13 16:43:46 - No hay comentario en la fila 94
+2025-06-13 16:43:46 - No hay comentario al 14 de abril en la fila 94
+2025-06-13 16:43:46 - Todo insertado correctamente
+2025-06-13 16:43:46 ============================================================
+2025-06-13 16:43:46 - =============== COMIENZA EJECUCIÓN - Procesando fila 95
+2025-06-13 16:43:46 - No hay comentario en la fila 95
+2025-06-13 16:43:46 - No hay comentario al 14 de abril en la fila 95
+2025-06-13 16:43:46 - Todo insertado correctamente
+2025-06-13 16:43:46 ============================================================
+2025-06-13 16:43:46 - =============== COMIENZA EJECUCIÓN - Procesando fila 96
+2025-06-13 16:43:47 - No hay comentario en la fila 96
+2025-06-13 16:43:47 - No hay comentario al 14 de abril en la fila 96
+2025-06-13 16:43:47 - Todo insertado correctamente
+2025-06-13 16:43:47 ============================================================
+2025-06-13 16:43:47 - =============== COMIENZA EJECUCIÓN - Procesando fila 97
+2025-06-13 16:43:47 - No hay comentario en la fila 97
+2025-06-13 16:43:47 - No hay comentario al 14 de abril en la fila 97
+2025-06-13 16:43:47 - Todo insertado correctamente
+2025-06-13 16:43:47 ============================================================
+2025-06-13 16:43:47 - =============== COMIENZA EJECUCIÓN - Procesando fila 98
+2025-06-13 16:43:48 - No hay comentario en la fila 98
+2025-06-13 16:43:48 - No hay comentario al 14 de abril en la fila 98
+2025-06-13 16:43:48 - Todo insertado correctamente
+2025-06-13 16:43:48 ============================================================
+2025-06-13 16:43:48 - =============== COMIENZA EJECUCIÓN - Procesando fila 99
+2025-06-13 16:43:48 - No hay comentario en la fila 99
+2025-06-13 16:43:48 - No hay comentario al 14 de abril en la fila 99
+2025-06-13 16:43:48 - Todo insertado correctamente
+2025-06-13 16:43:48 ============================================================
+2025-06-13 16:43:48 - =============== COMIENZA EJECUCIÓN - Procesando fila 100
+2025-06-13 16:43:49 - No hay comentario en la fila 100
+2025-06-13 16:43:49 - No hay comentario al 14 de abril en la fila 100
+2025-06-13 16:43:49 - Todo insertado correctamente
+2025-06-13 16:43:49 ============================================================
+2025-06-13 16:43:49 - =============== COMIENZA EJECUCIÓN - Procesando fila 101
+2025-06-13 16:43:50 - No hay comentario en la fila 101
+2025-06-13 16:43:50 - No hay comentario al 14 de abril en la fila 101
+2025-06-13 16:43:50 - Todo insertado correctamente
+2025-06-13 16:43:50 ============================================================
+2025-06-13 16:43:50 - =============== COMIENZA EJECUCIÓN - Procesando fila 102
+2025-06-13 16:43:50 - No hay comentario en la fila 102
+2025-06-13 16:43:50 - No hay comentario al 14 de abril en la fila 102
+2025-06-13 16:43:50 - Todo insertado correctamente
+2025-06-13 16:43:50 ============================================================
+2025-06-13 16:43:50 - =============== COMIENZA EJECUCIÓN - Procesando fila 103
+2025-06-13 16:43:51 - No hay comentario en la fila 103
+2025-06-13 16:43:51 - No hay comentario al 14 de abril en la fila 103
+2025-06-13 16:43:51 - Todo insertado correctamente
+2025-06-13 16:43:51 ============================================================
+2025-06-13 16:43:51 - =============== COMIENZA EJECUCIÓN - Procesando fila 104
+2025-06-13 16:43:51 - No hay comentario en la fila 104
+2025-06-13 16:43:51 - No hay comentario al 14 de abril en la fila 104
+2025-06-13 16:43:51 - Todo insertado correctamente
+2025-06-13 16:43:51 ============================================================
+2025-06-13 16:43:51 - =============== COMIENZA EJECUCIÓN - Procesando fila 105
+2025-06-13 16:43:52 - No hay comentario en la fila 105
+2025-06-13 16:43:52 - No hay comentario al 14 de abril en la fila 105
+2025-06-13 16:43:52 - Todo insertado correctamente
+2025-06-13 16:43:52 ============================================================
+2025-06-13 16:43:52 - =============== COMIENZA EJECUCIÓN - Procesando fila 106
+2025-06-13 16:43:52 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 106: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:52 - No hay bienes en la fila 106, se omite la fila completa.
+2025-06-13 16:43:52 - =============== COMIENZA EJECUCIÓN - Procesando fila 107
+2025-06-13 16:43:53 - Error en fila 108: could not convert string to float: '189,880,221,26'
+2025-06-13 16:43:53 - Contenido de la fila con error: {'LÍNEA DE NEGOCIO': 'Arrendamiento Vehicular Nuevos', 'DIRECTOR COMERCIAL': 'GCH', 'EJECUTIVO COMERCIAL': 'Reyna Isabel ', 'EMPRESA': 'LUMO', 'NOMBRE DEL PROSPECTO': 'GOBIERNO DEL ESTADO/BIENESTAR', 'ESTATUS CORTO': 'Pipeline', 'SECTOR': 'Estatal ', 'ESTADO': 'TABASCO', 'ORIGINADOR': 'Reyna Clemente', 'MERCADO FRÍO / CASA': 'FRIO', 'MES DE CIERRE (FALLO)': 'MAYO', 'MES DE ENTREGA': 'Abril ', 'PROC.': 'POR DEFINIR', '# BIENES': 113, 'DESCRIPCIÓN DE LOS BIENES': 'NISSAN FRONTIER,FORD F-150, RAM 1500', 'PLAZO (MESES)': 34, 'V. ACTIVO I.V.A. INCLUIDO': 66499299.99, 'V. CONTRATO I.V.A. INCLUIDO': '189,880,221,26', 'COMENTARIOS ': 'Se solicitó cita con oficial mayor.nva.titular. En espera', 'ANEXO / PRECIO': 'ANEXO', 'COMENTARIOS 26-03-25': nan, 'COMENTARIOS 02-04-25': 'Dar seguimiento para ver si se puede retomar', 'COMENTARIOS AL 07 DE ABRIL 2024': 'Se continuara buscando al contacto.', 'INTELIGENCIA DE MERCADO ': nan, 'PUNTOS RELEVANTES': 'Al parecer aún no se adjudica el proyecto ', 'COMENTARIOS AL 14 DE ABRIL 2024': nan, 'Comentarios Extra': 'No hay como identificar cuantos bienes de cada uno. Se ingresa en una sola partida', 'Linea de Negocio LumoSys': 'ARRENDAMIENTO NUEVOS', 'Director Comercial LumoSys': 'GRISELDA  CHIANG SAM GARCIA', 'Ejecutivo Comercial LumoSys': 'REYNA ISABEL CLEMENTE CUSTODIO', 'Empresa LumoSys': 'LUMO GA', 'Prospecto (CLI SIGLAS) LumoSys': 'GOB BIENESTAR', 'Inserta': 1}
+2025-06-13 16:43:53 - =============== COMIENZA EJECUCIÓN - Procesando fila 108
+2025-06-13 16:43:53 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 108: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:53 - No hay bienes en la fila 108, se omite la fila completa.
+2025-06-13 16:43:53 - =============== COMIENZA EJECUCIÓN - Procesando fila 109
+2025-06-13 16:43:54 - No hay comentario en la fila 109
+2025-06-13 16:43:54 - No hay comentario al 14 de abril en la fila 109
+2025-06-13 16:43:54 - Todo insertado correctamente
+2025-06-13 16:43:54 ============================================================
+2025-06-13 16:43:54 - =============== COMIENZA EJECUCIÓN - Procesando fila 110
+2025-06-13 16:43:54 - No hay comentario en la fila 110
+2025-06-13 16:43:54 - No hay comentario al 14 de abril en la fila 110
+2025-06-13 16:43:54 - Todo insertado correctamente
+2025-06-13 16:43:54 ============================================================
+2025-06-13 16:43:54 - =============== COMIENZA EJECUCIÓN - Procesando fila 111
+2025-06-13 16:43:55 - No hay comentario en la fila 111
+2025-06-13 16:43:55 - No hay comentario al 14 de abril en la fila 111
+2025-06-13 16:43:55 - Todo insertado correctamente
+2025-06-13 16:43:55 ============================================================
+2025-06-13 16:43:55 - =============== COMIENZA EJECUCIÓN - Procesando fila 112
+2025-06-13 16:43:55 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 112: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:55 - No hay comentario en la fila 112
+2025-06-13 16:43:55 - No hay comentario al 14 de abril en la fila 112
+2025-06-13 16:43:55 - Todo insertado correctamente
+2025-06-13 16:43:55 ============================================================
+2025-06-13 16:43:55 - =============== COMIENZA EJECUCIÓN - Procesando fila 113
+2025-06-13 16:43:56 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 113: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:56 - No hay comentario en la fila 113
+2025-06-13 16:43:56 - No hay comentario al 14 de abril en la fila 113
+2025-06-13 16:43:56 - Todo insertado correctamente
+2025-06-13 16:43:56 ============================================================
+2025-06-13 16:43:56 - =============== COMIENZA EJECUCIÓN - Procesando fila 114
+2025-06-13 16:43:56 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 114: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:57 - No hay comentario en la fila 114
+2025-06-13 16:43:57 - No hay comentario al 14 de abril en la fila 114
+2025-06-13 16:43:57 - Todo insertado correctamente
+2025-06-13 16:43:57 ============================================================
+2025-06-13 16:43:57 - =============== COMIENZA EJECUCIÓN - Procesando fila 115
+2025-06-13 16:43:57 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 115: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:57 - No hay bienes en la fila 115, se omite la fila completa.
+2025-06-13 16:43:57 - =============== COMIENZA EJECUCIÓN - Procesando fila 116
+2025-06-13 16:43:58 - Error en fila 117: could not convert string to float: '$6,467,368,22'
+2025-06-13 16:43:58 - Contenido de la fila con error: {'LÍNEA DE NEGOCIO': 'Arrendamiento Vehicular Seminuevos ', 'DIRECTOR COMERCIAL': 'GCH', 'EJECUTIVO COMERCIAL': 'Reyna Isabel ', 'EMPRESA': 'LFC', 'NOMBRE DEL PROSPECTO': 'GRUAS GRIJALVA', 'ESTATUS CORTO': 'Backlog', 'SECTOR': 'PRIVADO', 'ESTADO': 'TABASCO', 'ORIGINADOR': 'Reyna Clemente', 'MERCADO FRÍO / CASA': 'FRIO', 'MES DE CIERRE (FALLO)': 'ABRIL', 'MES DE ENTREGA': 'ABRIL', 'PROC.': 'POR DEFINIR', '# BIENES': 184, 'DESCRIPCIÓN DE LOS BIENES': 'PATRULLAS-GRUAS', 'PLAZO (MESES)': 1, 'V. ACTIVO I.V.A. INCLUIDO': 0.0, 'V. CONTRATO I.V.A. INCLUIDO': '$6,467,368,22', 'COMENTARIOS ': 'Conciliación del mes de enero, pendiente febrero', 'ANEXO / PRECIO': nan, 'COMENTARIOS 26-03-25': nan, 'COMENTARIOS 02-04-25': 'Se necesita que se emita el contrato para que paguen ', 'COMENTARIOS AL 07 DE ABRIL 2024': 'Sin cambios.', 'INTELIGENCIA DE MERCADO ': nan, 'PUNTOS RELEVANTES': 'Ya se comentó con el área de operaciones que necesitamos agilizar el contrato aunque la dictaminación por parte del área de crédito sea no viable para que podamos faturar y cobrar los dos meses de renta.\nPara el mes de febrero se debe definir si se comprarán los activos o no.\nSi se compran se facturarán 15 días, de lo contrario se facturará el mes completo. ', 'COMENTARIOS AL 14 DE ABRIL 2024': nan, 'Comentarios Extra': nan, 'Linea de Negocio LumoSys': 'ARRENDAMIENTO SEMINUEVOS', 'Director Comercial LumoSys': 'GRISELDA  CHIANG SAM GARCIA', 'Ejecutivo Comercial LumoSys': 'REYNA ISABEL CLEMENTE CUSTODIO', 'Empresa LumoSys': 'LFC', 'Prospecto (CLI SIGLAS) LumoSys': 'GRUAS DEL GRIJALVA', 'Inserta': 1}
+2025-06-13 16:43:58 - =============== COMIENZA EJECUCIÓN - Procesando fila 117
+2025-06-13 16:43:58 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 117: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:58 - No hay comentario en la fila 117
+2025-06-13 16:43:58 - No hay comentario al 14 de abril en la fila 117
+2025-06-13 16:43:58 - Todo insertado correctamente
+2025-06-13 16:43:58 ============================================================
+2025-06-13 16:43:58 - =============== COMIENZA EJECUCIÓN - Procesando fila 118
+2025-06-13 16:43:59 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 118: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:59 - No hay comentario en la fila 118
+2025-06-13 16:43:59 - No hay comentario al 14 de abril en la fila 118
+2025-06-13 16:43:59 - Todo insertado correctamente
+2025-06-13 16:43:59 ============================================================
+2025-06-13 16:43:59 - =============== COMIENZA EJECUCIÓN - Procesando fila 119
+2025-06-13 16:43:59 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 119: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:43:59 - No hay comentario en la fila 119
+2025-06-13 16:43:59 - No hay comentario al 14 de abril en la fila 119
+2025-06-13 16:44:00 - Todo insertado correctamente
+2025-06-13 16:44:00 ============================================================
+2025-06-13 16:44:00 - =============== COMIENZA EJECUCIÓN - Procesando fila 120
+2025-06-13 16:44:00 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 120: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:44:00 - No hay comentario en la fila 120
+2025-06-13 16:44:00 - No hay comentario al 14 de abril en la fila 120
+2025-06-13 16:44:00 - Todo insertado correctamente
+2025-06-13 16:44:00 ============================================================
+2025-06-13 16:44:00 - =============== COMIENZA EJECUCIÓN - Procesando fila 121
+2025-06-13 16:44:01 - No hay comentario en la fila 121
+2025-06-13 16:44:01 - No hay comentario al 14 de abril en la fila 121
+2025-06-13 16:44:01 - Todo insertado correctamente
+2025-06-13 16:44:01 ============================================================
+2025-06-13 16:44:01 - =============== COMIENZA EJECUCIÓN - Procesando fila 123
+2025-06-13 16:44:01 - No hay comentario en la fila 123
+2025-06-13 16:44:01 - No hay comentario al 14 de abril en la fila 123
+2025-06-13 16:44:01 - Todo insertado correctamente
+2025-06-13 16:44:01 ============================================================
+2025-06-13 16:44:01 - =============== COMIENZA EJECUCIÓN - Procesando fila 124
+2025-06-13 16:44:02 - No hay comentario en la fila 124
+2025-06-13 16:44:02 - Todo insertado correctamente
+2025-06-13 16:44:02 ============================================================
+2025-06-13 16:44:02 - =============== COMIENZA EJECUCIÓN - Procesando fila 125
+2025-06-13 16:44:03 - No hay comentario en la fila 125
+2025-06-13 16:44:03 - Todo insertado correctamente
+2025-06-13 16:44:03 ============================================================
+2025-06-13 16:44:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 126
+2025-06-13 16:44:03 - No hay comentario en la fila 126
+2025-06-13 16:44:03 - Todo insertado correctamente
+2025-06-13 16:44:03 ============================================================
+2025-06-13 16:44:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 127
+2025-06-13 16:44:04 - No hay comentario en la fila 127
+2025-06-13 16:44:04 - Todo insertado correctamente
+2025-06-13 16:44:04 ============================================================
+2025-06-13 16:44:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 128
+2025-06-13 16:44:05 - No hay comentario en la fila 128
+2025-06-13 16:44:05 - Todo insertado correctamente
+2025-06-13 16:44:05 ============================================================
+2025-06-13 16:44:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 130
+2025-06-13 16:44:06 - No hay comentario en la fila 130
+2025-06-13 16:44:06 - Todo insertado correctamente
+2025-06-13 16:44:06 ============================================================
+2025-06-13 16:44:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 132
+2025-06-13 16:44:06 - No hay comentario en la fila 132
+2025-06-13 16:44:06 - Todo insertado correctamente
+2025-06-13 16:44:06 ============================================================
+2025-06-13 16:44:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 133
+2025-06-13 16:44:07 - No hay comentario en la fila 133
+2025-06-13 16:44:07 - Todo insertado correctamente
+2025-06-13 16:44:07 ============================================================
+2025-06-13 16:44:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 134
+2025-06-13 16:44:08 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 134: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:44:08 - No hay comentario en la fila 134
+2025-06-13 16:44:08 - No hay comentario al 14 de abril en la fila 134
+2025-06-13 16:44:08 - Todo insertado correctamente
+2025-06-13 16:44:08 ============================================================
+2025-06-13 16:44:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 136
+2025-06-13 16:44:08 - No hay comentario en la fila 136
+2025-06-13 16:44:08 - Todo insertado correctamente
+2025-06-13 16:44:08 ============================================================
+2025-06-13 16:44:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 137
+2025-06-13 16:44:09 - No hay comentario en la fila 137
+2025-06-13 16:44:09 - Todo insertado correctamente
+2025-06-13 16:44:09 ============================================================
+2025-06-13 16:44:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 138
+2025-06-13 16:44:09 - No hay comentario en la fila 138
+2025-06-13 16:44:09 - Todo insertado correctamente
+2025-06-13 16:44:09 ============================================================
+2025-06-13 16:44:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 139
+2025-06-13 16:44:10 - Línea de negocio no encontrado para '%VENTA NUEVOS%' (fila Excel 139)
+2025-06-13 16:44:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 140
+2025-06-13 16:44:10 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 140: ('22018', "[22018] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting the nvarchar value 'SIN INFO' to data type int. (245) (SQLExecDirectW)")
+2025-06-13 16:44:10 - No hay comentario en la fila 140
+2025-06-13 16:44:10 - Todo insertado correctamente
+2025-06-13 16:44:10 ============================================================
+2025-06-13 16:44:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 142
+2025-06-13 16:44:11 - Mes de entrega inválido o no reconocido, se omite la fila.
+2025-06-13 16:44:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 143
+2025-06-13 16:44:11 - Error al insertar OPERACIONES_COMERCIALES en fila Excel 143: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 12 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-06-13 16:44:11 - No hay bienes en la fila 143, se omite la fila completa.
+2025-06-13 16:44:11 - Resumen final:
+2025-06-13 16:44:11 - Registros insertados correctamente: 115
+2025-06-13 16:44:11 - Registros omitidos por validación: 12
+2025-06-13 16:44:11 ============================================================

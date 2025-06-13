@@ -1,0 +1,266 @@
+[2025-06-12 15:55:53] No hay comentario en la fila 1
+============================================================
+[2025-06-12 15:55:53] Todo insertado correctamente
+============================================================
+[2025-06-12 15:55:54] No hay comentario en la fila 2
+============================================================
+[2025-06-12 15:55:54] Todo insertado correctamente
+============================================================
+[2025-06-12 15:55:54] No hay comentario en la fila 3
+============================================================
+[2025-06-12 15:55:54] No hay comentario al 14 de abril en la fila 3
+============================================================
+[2025-06-12 15:55:54] Todo insertado correctamente
+============================================================
+[2025-06-12 15:55:55] NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 4)
+============================================================
+[2025-06-12 15:55:55] NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 5)
+============================================================
+[2025-06-12 15:55:55] NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 6)
+============================================================
+[2025-06-12 15:55:55] NOMBRE DEL PROSPECTO no encontrado para '%YOSHIO MARTINEZ%' (fila Excel 7)
+============================================================
+[2025-06-12 15:55:56] NOMBRE DEL PROSPECTO no encontrado para '%VARPA AUTOMOTORES%' (fila Excel 8)
+============================================================
+[2025-06-12 15:55:56] NOMBRE DEL PROSPECTO no encontrado para '%MARIA DEL CARMEN MENA%' (fila Excel 9)
+============================================================
+[2025-06-12 15:55:56] NOMBRE DEL PROSPECTO no encontrado para '%ALCALDIA IZTAPALAPA%' (fila Excel 10)
+============================================================
+[2025-06-12 15:55:56] NOMBRE DEL PROSPECTO no encontrado para '%JOSE GERARDO CERVANTES MEDELLIN%' (fila Excel 11)
+============================================================
+[2025-06-12 15:55:57] No hay comentario en la fila 12
+============================================================
+[2025-06-12 15:55:57] Todo insertado correctamente
+============================================================
+[2025-06-12 15:55:57] No hay comentario en la fila 13
+============================================================
+[2025-06-12 15:55:57] Todo insertado correctamente
+============================================================
+[2025-06-12 15:55:57] NOMBRE DEL PROSPECTO no encontrado para '%AUTOMAX LAGUNA%' (fila Excel 14)
+============================================================
+[2025-06-12 15:55:58] Sector no encontrado para '%Privado - Gobierno%' (fila Excel 15)
+============================================================
+[2025-06-12 15:55:58] Sector no encontrado para '%Privado - Gobierno%' (fila Excel 16)
+============================================================
+[2025-06-12 15:55:58] Sector no encontrado para '%Privado - Gobierno%' (fila Excel 17)
+============================================================
+[2025-06-12 15:55:59] Error al insertar OPERACIONES_COMERCIALES en fila Excel 18: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_OPERACIONES_COMERCIALES_TIPOS_PROCEDIMIENTOS_PROSPECIONES'. El conflicto ha aparecido en la base de datos 'dbLumoSysDesa', tabla 'iop.TIPOS_PROCEDIMIENTOS_PROSPECIONES', column 'TRO_ID'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción. (3621)")
+============================================================
+[2025-06-12 15:55:59] No hay comentario en la fila 18
+============================================================
+[2025-06-12 15:55:59] Todo insertado correctamente
+============================================================
+[2025-06-12 15:55:59] Error al insertar OPERACIONES_COMERCIALES en fila Excel 19: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_OPERACIONES_COMERCIALES_TIPOS_PROCEDIMIENTOS_PROSPECIONES'. El conflicto ha aparecido en la base de datos 'dbLumoSysDesa', tabla 'iop.TIPOS_PROCEDIMIENTOS_PROSPECIONES', column 'TRO_ID'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción. (3621)")
+============================================================
+[2025-06-12 15:55:59] No hay comentario en la fila 19
+============================================================
+[2025-06-12 15:55:59] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:00] NOMBRE DEL PROSPECTO no encontrado para '%BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO%' (fila Excel 21)
+============================================================
+[2025-06-12 15:56:00] NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES FREIGHLINER%' (fila Excel 22)
+============================================================
+[2025-06-12 15:56:00] NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES 5 TONELADAS%' (fila Excel 23)
+============================================================
+[2025-06-12 15:56:00] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 24)
+============================================================
+[2025-06-12 15:56:01] Mes de entrega inválido o no reconocido, se omite la fila.
+============================================================
+[2025-06-12 15:56:01] EJECUTIVO COMERCIAL no encontrado para '%Monica Huicochea%' (fila Excel 27)
+============================================================
+[2025-06-12 15:56:01] EJECUTIVO COMERCIAL no encontrado para '%Monica Huicochea%' (fila Excel 28)
+============================================================
+[2025-06-12 15:56:01] NOMBRE DEL PROSPECTO no encontrado para '%Guadalupe Nuevo León%' (fila Excel 29)
+============================================================
+[2025-06-12 15:56:02] NOMBRE DEL PROSPECTO no encontrado para '%Guadalupe Nuevo León%' (fila Excel 30)
+============================================================
+[2025-06-12 15:56:02] NOMBRE DEL PROSPECTO no encontrado para '%SOCIEDAD HIPOTECARIA FEDERAL%' (fila Excel 31)
+============================================================
+[2025-06-12 15:56:02] NOMBRE DEL PROSPECTO no encontrado para '%SADER FERTILIZANTES%' (fila Excel 32)
+============================================================
+[2025-06-12 15:56:02] NOMBRE DEL PROSPECTO no encontrado para '%DICONSA%' (fila Excel 33)
+============================================================
+[2025-06-12 15:56:03] No hay comentario en la fila 34
+============================================================
+[2025-06-12 15:56:03] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:03] NOMBRE DEL PROSPECTO no encontrado para '%INTERAPAS SLP ORGANISMO DE AGUAS%' (fila Excel 35)
+============================================================
+[2025-06-12 15:56:04] NOMBRE DEL PROSPECTO no encontrado para '%LICONSA%' (fila Excel 36)
+============================================================
+[2025-06-12 15:56:04] No hay comentario en la fila 37
+============================================================
+[2025-06-12 15:56:04] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:04] NOMBRE DEL PROSPECTO no encontrado para '%ECO MANAGEMENT%' (fila Excel 38)
+============================================================
+[2025-06-12 15:56:05] No hay comentario en la fila 39
+============================================================
+[2025-06-12 15:56:05] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:05] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 40)
+============================================================
+[2025-06-12 15:56:05] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 41)
+============================================================
+[2025-06-12 15:56:06] No hay comentario en la fila 42
+============================================================
+[2025-06-12 15:56:06] No hay comentario al 14 de abril en la fila 42
+============================================================
+[2025-06-12 15:56:06] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:06] No hay comentario en la fila 43
+============================================================
+[2025-06-12 15:56:06] No hay comentario al 14 de abril en la fila 43
+============================================================
+[2025-06-12 15:56:06] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:07] NOMBRE DEL PROSPECTO no encontrado para '%OTHON P. BLANCO%' (fila Excel 47)
+============================================================
+[2025-06-12 15:56:07] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 52)
+============================================================
+[2025-06-12 15:56:08] NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 55)
+============================================================
+[2025-06-12 15:56:08] NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 57)
+============================================================
+[2025-06-12 15:56:08] NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 58)
+============================================================
+[2025-06-12 15:56:09] NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 59)
+============================================================
+[2025-06-12 15:56:09] NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 60)
+============================================================
+[2025-06-12 15:56:09] NOMBRE DEL PROSPECTO no encontrado para '%Municipio de Atizapán%' (fila Excel 61)
+============================================================
+[2025-06-12 15:56:10] Mes de entrega inválido o no reconocido, se omite la fila.
+============================================================
+[2025-06-12 15:56:10] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 63)
+============================================================
+[2025-06-12 15:56:10] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 64)
+============================================================
+[2025-06-12 15:56:10] Mes de entrega inválido o no reconocido, se omite la fila.
+============================================================
+[2025-06-12 15:56:11] Mes de entrega inválido o no reconocido, se omite la fila.
+============================================================
+[2025-06-12 15:56:11] Mes de entrega inválido o no reconocido, se omite la fila.
+============================================================
+[2025-06-12 15:56:12] No hay comentario en la fila 68
+============================================================
+[2025-06-12 15:56:12] No hay comentario al 14 de abril en la fila 68
+============================================================
+[2025-06-12 15:56:12] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:12] No hay comentario en la fila 69
+============================================================
+[2025-06-12 15:56:12] No hay comentario al 14 de abril en la fila 69
+============================================================
+[2025-06-12 15:56:12] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:12] No hay comentario en la fila 70
+============================================================
+[2025-06-12 15:56:12] No hay comentario al 14 de abril en la fila 70
+============================================================
+[2025-06-12 15:56:12] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:13] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 71)
+============================================================
+[2025-06-12 15:56:13] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 72)
+============================================================
+[2025-06-12 15:56:13] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 73)
+============================================================
+[2025-06-12 15:56:14] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 74)
+============================================================
+[2025-06-12 15:56:14] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 75)
+============================================================
+[2025-06-12 15:56:14] NOMBRE DEL PROSPECTO no encontrado para '%Municipio de Atizapán%' (fila Excel 76)
+============================================================
+[2025-06-12 15:56:15] No hay comentario en la fila 77
+============================================================
+[2025-06-12 15:56:15] No hay comentario al 14 de abril en la fila 77
+============================================================
+[2025-06-12 15:56:15] Todo insertado correctamente
+============================================================
+[2025-06-12 15:56:15] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 78)
+============================================================
+[2025-06-12 15:56:15] NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEXCOCO%' (fila Excel 79)
+============================================================
+[2025-06-12 15:56:15] NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO
+CHIMALHUACAN%' (fila Excel 80)
+============================================================
+[2025-06-12 15:56:16] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 81)
+============================================================
+[2025-06-12 15:56:16] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 82)
+============================================================
+[2025-06-12 15:56:16] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 83)
+============================================================
+[2025-06-12 15:56:17] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 84)
+============================================================
+[2025-06-12 15:56:17] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 85)
+============================================================
+[2025-06-12 15:56:17] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 86)
+============================================================
+[2025-06-12 15:56:17] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 87)
+============================================================
+[2025-06-12 15:56:18] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 88)
+============================================================
+[2025-06-12 15:56:18] Línea de negocio no encontrado para '%ARRENDAMIENTO SEMINUEVOS%' (fila Excel 89)
+============================================================
+[2025-06-12 15:56:18] NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO
+DE MALINALCO%' (fila Excel 90)
+============================================================
+[2025-06-12 15:56:18] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 91)
+============================================================
+[2025-06-12 15:56:19] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 92)
+============================================================
+[2025-06-12 15:56:19] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 93)
+============================================================
+[2025-06-12 15:56:19] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 94)
+============================================================
+[2025-06-12 15:56:19] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 95)
+============================================================
+[2025-06-12 15:56:19] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 96)
+============================================================
+[2025-06-12 15:56:20] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 97)
+============================================================
+[2025-06-12 15:56:20] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 98)
+============================================================
+[2025-06-12 15:56:20] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 99)
+============================================================
+[2025-06-12 15:56:20] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 100)
+============================================================
+[2025-06-12 15:56:21] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 102)
+============================================================
+[2025-06-12 15:56:21] NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 104)
+============================================================
+[2025-06-12 15:56:21] NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 105)
+============================================================
+[2025-06-12 15:56:22] NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 106)
+============================================================
+[2025-06-12 15:56:22] NOMBRE DEL PROSPECTO no encontrado para '%CLAUDIA MARCELA PRIEGO CUSTODIO%' (fila Excel 107)
+============================================================
+[2025-06-12 15:56:22] NOMBRE DEL PROSPECTO no encontrado para '%RICARDO ACOSTA SANCHEZ%' (fila Excel 108)
+============================================================
+[2025-06-12 15:56:22] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 109)
+============================================================
+[2025-06-12 15:56:22] NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 110)
+============================================================
+[2025-06-12 15:56:23] EMPRESA no encontrado para '%SIKURIKA%' (fila Excel 111)
+============================================================
+[2025-06-12 15:56:23] EMPRESA no encontrado para '%A&O%' (fila Excel 112)
+============================================================
+[2025-06-12 15:56:23] EMPRESA no encontrado para '%SIKURIKA%' (fila Excel 113)
+============================================================
+[2025-06-12 15:56:23] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 114)
+============================================================
+[2025-06-12 15:56:26] NOMBRE DEL PROSPECTO no encontrado para '%REPARTO Y PAQUETERIA MAC SA DE CV%' (fila Excel 127)
+============================================================
+[2025-06-12 15:56:27] NOMBRE DEL PROSPECTO no encontrado para '%MUULK MOVILIDAD SA DE CV%' (fila Excel 131)
+============================================================
+[2025-06-12 15:56:28] NOMBRE DEL PROSPECTO no encontrado para '%LEPAD SA DE CV%' (fila Excel 132)
+============================================================
+[2025-06-12 15:56:28] EMPRESA no encontrado para '%SICURIKA%' (fila Excel 133)
+============================================================
+[2025-06-12 15:56:28] Resumen final:
+============================================================
+[2025-06-12 15:56:28] Registros insertados correctamente: 16
+============================================================
+[2025-06-12 15:56:28] Registros omitidos por validación: 108
+============================================================

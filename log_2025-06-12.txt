@@ -1,0 +1,1564 @@
+2025-06-12 19:40:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 1
+2025-06-12 19:40:04 - Todo insertado correctamente
+2025-06-12 19:40:04 ============================================================
+2025-06-12 19:40:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 2
+2025-06-12 19:40:05 - Todo insertado correctamente
+2025-06-12 19:40:05 ============================================================
+2025-06-12 19:40:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 3
+2025-06-12 19:40:05 - No hay comentario al 14 de abril en la fila 3
+2025-06-12 19:40:05 - Todo insertado correctamente
+2025-06-12 19:40:05 ============================================================
+2025-06-12 19:40:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 4
+2025-06-12 19:40:05 - NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 4)
+2025-06-12 19:40:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 5
+2025-06-12 19:40:06 - NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 5)
+2025-06-12 19:40:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 6
+2025-06-12 19:40:06 - NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 6)
+2025-06-12 19:40:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 7
+2025-06-12 19:40:06 - NOMBRE DEL PROSPECTO no encontrado para '%YOSHIO MARTINEZ%' (fila Excel 7)
+2025-06-12 19:40:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 8
+2025-06-12 19:40:06 - NOMBRE DEL PROSPECTO no encontrado para '%VARPA AUTOMOTORES%' (fila Excel 8)
+2025-06-12 19:40:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 9
+2025-06-12 19:40:07 - NOMBRE DEL PROSPECTO no encontrado para '%MARIA DEL CARMEN MENA%' (fila Excel 9)
+2025-06-12 19:40:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 10
+2025-06-12 19:40:07 - NOMBRE DEL PROSPECTO no encontrado para '%ALCALDIA IZTAPALAPA%' (fila Excel 10)
+2025-06-12 19:40:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 11
+2025-06-12 19:40:07 - NOMBRE DEL PROSPECTO no encontrado para '%JOSE GERARDO CERVANTES MEDELLIN%' (fila Excel 11)
+2025-06-12 19:40:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 12
+2025-06-12 19:40:07 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 12: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:07 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 12: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_COMENTARIOS_PROSPECIONES_OPERACIONES_COMERCIALES'. El conflicto ha aparecido en la base de datos 'dbLumoSysDesa', tabla 'iop.OPERACIONES_COMERCIALES', column 'OPP_ID'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción. (3621)")
+2025-06-12 19:40:08 - Todo insertado correctamente
+2025-06-12 19:40:08 ============================================================
+2025-06-12 19:40:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 13
+2025-06-12 19:40:08 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 13: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:08 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 13: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_COMENTARIOS_PROSPECIONES_OPERACIONES_COMERCIALES'. El conflicto ha aparecido en la base de datos 'dbLumoSysDesa', tabla 'iop.OPERACIONES_COMERCIALES', column 'OPP_ID'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción. (3621)")
+2025-06-12 19:40:08 - Todo insertado correctamente
+2025-06-12 19:40:08 ============================================================
+2025-06-12 19:40:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 14
+2025-06-12 19:40:08 - NOMBRE DEL PROSPECTO no encontrado para '%AUTOMAX LAGUNA%' (fila Excel 14)
+2025-06-12 19:40:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 15
+2025-06-12 19:40:09 - Todo insertado correctamente
+2025-06-12 19:40:09 ============================================================
+2025-06-12 19:40:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 16
+2025-06-12 19:40:09 - Todo insertado correctamente
+2025-06-12 19:40:09 ============================================================
+2025-06-12 19:40:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 17
+2025-06-12 19:40:10 - Todo insertado correctamente
+2025-06-12 19:40:10 ============================================================
+2025-06-12 19:40:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 18
+2025-06-12 19:40:11 - Todo insertado correctamente
+2025-06-12 19:40:11 ============================================================
+2025-06-12 19:40:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 19
+2025-06-12 19:40:11 - Todo insertado correctamente
+2025-06-12 19:40:11 ============================================================
+2025-06-12 19:40:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 21
+2025-06-12 19:40:11 - NOMBRE DEL PROSPECTO no encontrado para '%BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO%' (fila Excel 21)
+2025-06-12 19:40:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 22
+2025-06-12 19:40:12 - NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES FREIGHLINER%' (fila Excel 22)
+2025-06-12 19:40:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 23
+2025-06-12 19:40:12 - NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES 5 TONELADAS%' (fila Excel 23)
+2025-06-12 19:40:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 24
+2025-06-12 19:40:12 - Todo insertado correctamente
+2025-06-12 19:40:12 ============================================================
+2025-06-12 19:40:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 25
+2025-06-12 19:40:13 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 25: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:13 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 25: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_COMENTARIOS_PROSPECIONES_OPERACIONES_COMERCIALES'. El conflicto ha aparecido en la base de datos 'dbLumoSysDesa', tabla 'iop.OPERACIONES_COMERCIALES', column 'OPP_ID'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción. (3621)")
+2025-06-12 19:40:13 - Todo insertado correctamente
+2025-06-12 19:40:13 ============================================================
+2025-06-12 19:40:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 27
+2025-06-12 19:40:13 - EJECUTIVO COMERCIAL no encontrado para '%MONICA HUICOCHEA%' (fila Excel 27)
+2025-06-12 19:40:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 28
+2025-06-12 19:40:13 - EJECUTIVO COMERCIAL no encontrado para '%MONICA HUICOCHEA%' (fila Excel 28)
+2025-06-12 19:40:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 29
+2025-06-12 19:40:14 - NOMBRE DEL PROSPECTO no encontrado para '%GUADALUPE NUEVO LEÓN%' (fila Excel 29)
+2025-06-12 19:40:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 30
+2025-06-12 19:40:14 - NOMBRE DEL PROSPECTO no encontrado para '%GUADALUPE NUEVO LEÓN%' (fila Excel 30)
+2025-06-12 19:40:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 31
+2025-06-12 19:40:14 - NOMBRE DEL PROSPECTO no encontrado para '%SOCIEDAD HIPOTECARIA FEDERAL%' (fila Excel 31)
+2025-06-12 19:40:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 32
+2025-06-12 19:40:14 - NOMBRE DEL PROSPECTO no encontrado para '%SADER FERTILIZANTES%' (fila Excel 32)
+2025-06-12 19:40:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 33
+2025-06-12 19:40:15 - NOMBRE DEL PROSPECTO no encontrado para '%DICONSA%' (fila Excel 33)
+2025-06-12 19:40:15 - =============== COMIENZA EJECUCIÓN - Procesando fila 34
+2025-06-12 19:40:15 - Todo insertado correctamente
+2025-06-12 19:40:15 ============================================================
+2025-06-12 19:40:15 - =============== COMIENZA EJECUCIÓN - Procesando fila 35
+2025-06-12 19:40:15 - NOMBRE DEL PROSPECTO no encontrado para '%INTERAPAS SLP ORGANISMO DE AGUAS%' (fila Excel 35)
+2025-06-12 19:40:15 - =============== COMIENZA EJECUCIÓN - Procesando fila 36
+2025-06-12 19:40:16 - NOMBRE DEL PROSPECTO no encontrado para '%LICONSA%' (fila Excel 36)
+2025-06-12 19:40:16 - =============== COMIENZA EJECUCIÓN - Procesando fila 37
+2025-06-12 19:40:16 - Todo insertado correctamente
+2025-06-12 19:40:16 ============================================================
+2025-06-12 19:40:16 - =============== COMIENZA EJECUCIÓN - Procesando fila 38
+2025-06-12 19:40:17 - NOMBRE DEL PROSPECTO no encontrado para '%ECO MANAGEMENT%' (fila Excel 38)
+2025-06-12 19:40:17 - =============== COMIENZA EJECUCIÓN - Procesando fila 39
+2025-06-12 19:40:17 - Todo insertado correctamente
+2025-06-12 19:40:17 ============================================================
+2025-06-12 19:40:17 - =============== COMIENZA EJECUCIÓN - Procesando fila 40
+2025-06-12 19:40:18 - No hay comentario al 14 de abril en la fila 40
+2025-06-12 19:40:18 - Todo insertado correctamente
+2025-06-12 19:40:18 ============================================================
+2025-06-12 19:40:18 - =============== COMIENZA EJECUCIÓN - Procesando fila 41
+2025-06-12 19:40:18 - No hay comentario al 14 de abril en la fila 41
+2025-06-12 19:40:18 - Todo insertado correctamente
+2025-06-12 19:40:18 ============================================================
+2025-06-12 19:40:18 - =============== COMIENZA EJECUCIÓN - Procesando fila 42
+2025-06-12 19:40:18 - No hay comentario al 14 de abril en la fila 42
+2025-06-12 19:40:19 - Todo insertado correctamente
+2025-06-12 19:40:19 ============================================================
+2025-06-12 19:40:19 - =============== COMIENZA EJECUCIÓN - Procesando fila 43
+2025-06-12 19:40:19 - No hay comentario al 14 de abril en la fila 43
+2025-06-12 19:40:19 - Todo insertado correctamente
+2025-06-12 19:40:19 ============================================================
+2025-06-12 19:40:19 - =============== COMIENZA EJECUCIÓN - Procesando fila 44
+2025-06-12 19:40:19 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:19 - =============== COMIENZA EJECUCIÓN - Procesando fila 45
+2025-06-12 19:40:19 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:19 - =============== COMIENZA EJECUCIÓN - Procesando fila 46
+2025-06-12 19:40:20 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 47
+2025-06-12 19:40:20 - NOMBRE DEL PROSPECTO no encontrado para '%OTHON P. BLANCO%' (fila Excel 47)
+2025-06-12 19:40:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 52
+2025-06-12 19:40:20 - NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO ESTATAL DE TRANSPORTE DE CAMPECHE%' (fila Excel 52)
+2025-06-12 19:40:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 53
+2025-06-12 19:40:20 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:20 - =============== COMIENZA EJECUCIÓN - Procesando fila 55
+2025-06-12 19:40:21 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 55)
+2025-06-12 19:40:21 - =============== COMIENZA EJECUCIÓN - Procesando fila 57
+2025-06-12 19:40:21 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 57)
+2025-06-12 19:40:21 - =============== COMIENZA EJECUCIÓN - Procesando fila 58
+2025-06-12 19:40:21 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 58)
+2025-06-12 19:40:21 - =============== COMIENZA EJECUCIÓN - Procesando fila 59
+2025-06-12 19:40:21 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 59)
+2025-06-12 19:40:21 - =============== COMIENZA EJECUCIÓN - Procesando fila 60
+2025-06-12 19:40:22 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 60)
+2025-06-12 19:40:22 - =============== COMIENZA EJECUCIÓN - Procesando fila 61
+2025-06-12 19:40:22 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE ATIZAPÁN%' (fila Excel 61)
+2025-06-12 19:40:22 - =============== COMIENZA EJECUCIÓN - Procesando fila 62
+2025-06-12 19:40:22 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 62: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:22 - No hay comentario al 14 de abril en la fila 62
+2025-06-12 19:40:22 - Todo insertado correctamente
+2025-06-12 19:40:22 ============================================================
+2025-06-12 19:40:22 - =============== COMIENZA EJECUCIÓN - Procesando fila 63
+2025-06-12 19:40:23 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 63: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:23 - No hay comentario al 14 de abril en la fila 63
+2025-06-12 19:40:23 - Todo insertado correctamente
+2025-06-12 19:40:23 ============================================================
+2025-06-12 19:40:23 - =============== COMIENZA EJECUCIÓN - Procesando fila 64
+2025-06-12 19:40:23 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 64: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:23 - No hay comentario al 14 de abril en la fila 64
+2025-06-12 19:40:23 - Todo insertado correctamente
+2025-06-12 19:40:23 ============================================================
+2025-06-12 19:40:23 - =============== COMIENZA EJECUCIÓN - Procesando fila 65
+2025-06-12 19:40:24 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 65: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:24 - No hay comentario al 14 de abril en la fila 65
+2025-06-12 19:40:24 - Todo insertado correctamente
+2025-06-12 19:40:24 ============================================================
+2025-06-12 19:40:24 - =============== COMIENZA EJECUCIÓN - Procesando fila 66
+2025-06-12 19:40:24 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 66: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:24 - No hay comentario al 14 de abril en la fila 66
+2025-06-12 19:40:24 - Todo insertado correctamente
+2025-06-12 19:40:24 ============================================================
+2025-06-12 19:40:24 - =============== COMIENZA EJECUCIÓN - Procesando fila 67
+2025-06-12 19:40:25 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 67: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:40:25 - No hay comentario al 14 de abril en la fila 67
+2025-06-12 19:40:25 - Todo insertado correctamente
+2025-06-12 19:40:25 ============================================================
+2025-06-12 19:40:25 - =============== COMIENZA EJECUCIÓN - Procesando fila 68
+2025-06-12 19:40:25 - No hay comentario al 14 de abril en la fila 68
+2025-06-12 19:40:25 - Todo insertado correctamente
+2025-06-12 19:40:25 ============================================================
+2025-06-12 19:40:25 - =============== COMIENZA EJECUCIÓN - Procesando fila 69
+2025-06-12 19:40:26 - No hay comentario al 14 de abril en la fila 69
+2025-06-12 19:40:26 - Todo insertado correctamente
+2025-06-12 19:40:26 ============================================================
+2025-06-12 19:40:26 - =============== COMIENZA EJECUCIÓN - Procesando fila 70
+2025-06-12 19:40:26 - No hay comentario al 14 de abril en la fila 70
+2025-06-12 19:40:26 - Todo insertado correctamente
+2025-06-12 19:40:26 ============================================================
+2025-06-12 19:40:26 - =============== COMIENZA EJECUCIÓN - Procesando fila 71
+2025-06-12 19:40:26 - NOMBRE DEL PROSPECTO no encontrado para '%TV CABLE GUADIANA SA DECV%' (fila Excel 71)
+2025-06-12 19:40:26 - =============== COMIENZA EJECUCIÓN - Procesando fila 72
+2025-06-12 19:40:27 - No hay comentario al 14 de abril en la fila 72
+2025-06-12 19:40:27 - Todo insertado correctamente
+2025-06-12 19:40:27 ============================================================
+2025-06-12 19:40:27 - =============== COMIENZA EJECUCIÓN - Procesando fila 73
+2025-06-12 19:40:27 - No hay comentario al 14 de abril en la fila 73
+2025-06-12 19:40:27 - Todo insertado correctamente
+2025-06-12 19:40:27 ============================================================
+2025-06-12 19:40:27 - =============== COMIENZA EJECUCIÓN - Procesando fila 74
+2025-06-12 19:40:28 - No hay comentario al 14 de abril en la fila 74
+2025-06-12 19:40:28 - Todo insertado correctamente
+2025-06-12 19:40:28 ============================================================
+2025-06-12 19:40:28 - =============== COMIENZA EJECUCIÓN - Procesando fila 75
+2025-06-12 19:40:28 - No hay comentario al 14 de abril en la fila 75
+2025-06-12 19:40:28 - Todo insertado correctamente
+2025-06-12 19:40:28 ============================================================
+2025-06-12 19:40:28 - =============== COMIENZA EJECUCIÓN - Procesando fila 76
+2025-06-12 19:40:28 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE ATIZAPÁN%' (fila Excel 76)
+2025-06-12 19:40:28 - =============== COMIENZA EJECUCIÓN - Procesando fila 77
+2025-06-12 19:40:29 - No hay comentario al 14 de abril en la fila 77
+2025-06-12 19:40:29 - Todo insertado correctamente
+2025-06-12 19:40:29 ============================================================
+2025-06-12 19:40:29 - =============== COMIENZA EJECUCIÓN - Procesando fila 78
+2025-06-12 19:40:29 - No hay comentario al 14 de abril en la fila 78
+2025-06-12 19:40:29 - Todo insertado correctamente
+2025-06-12 19:40:29 ============================================================
+2025-06-12 19:40:29 - =============== COMIENZA EJECUCIÓN - Procesando fila 79
+2025-06-12 19:40:30 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEXCOCO%' (fila Excel 79)
+2025-06-12 19:40:30 - =============== COMIENZA EJECUCIÓN - Procesando fila 80
+2025-06-12 19:40:30 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO
+CHIMALHUACAN%' (fila Excel 80)
+2025-06-12 19:40:30 - =============== COMIENZA EJECUCIÓN - Procesando fila 81
+2025-06-12 19:40:30 - No hay comentario al 14 de abril en la fila 81
+2025-06-12 19:40:30 - Todo insertado correctamente
+2025-06-12 19:40:30 ============================================================
+2025-06-12 19:40:30 - =============== COMIENZA EJECUCIÓN - Procesando fila 82
+2025-06-12 19:40:31 - No hay comentario al 14 de abril en la fila 82
+2025-06-12 19:40:31 - Todo insertado correctamente
+2025-06-12 19:40:31 ============================================================
+2025-06-12 19:40:31 - =============== COMIENZA EJECUCIÓN - Procesando fila 83
+2025-06-12 19:40:31 - No hay comentario al 14 de abril en la fila 83
+2025-06-12 19:40:31 - Todo insertado correctamente
+2025-06-12 19:40:31 ============================================================
+2025-06-12 19:40:31 - =============== COMIENZA EJECUCIÓN - Procesando fila 84
+2025-06-12 19:40:32 - No hay comentario al 14 de abril en la fila 84
+2025-06-12 19:40:32 - Todo insertado correctamente
+2025-06-12 19:40:32 ============================================================
+2025-06-12 19:40:32 - =============== COMIENZA EJECUCIÓN - Procesando fila 85
+2025-06-12 19:40:32 - No hay comentario al 14 de abril en la fila 85
+2025-06-12 19:40:32 - Todo insertado correctamente
+2025-06-12 19:40:32 ============================================================
+2025-06-12 19:40:32 - =============== COMIENZA EJECUCIÓN - Procesando fila 86
+2025-06-12 19:40:33 - No hay comentario al 14 de abril en la fila 86
+2025-06-12 19:40:33 - Todo insertado correctamente
+2025-06-12 19:40:33 ============================================================
+2025-06-12 19:40:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 87
+2025-06-12 19:40:33 - No hay comentario al 14 de abril en la fila 87
+2025-06-12 19:40:33 - Todo insertado correctamente
+2025-06-12 19:40:33 ============================================================
+2025-06-12 19:40:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 88
+2025-06-12 19:40:33 - No hay comentario al 14 de abril en la fila 88
+2025-06-12 19:40:34 - Todo insertado correctamente
+2025-06-12 19:40:34 ============================================================
+2025-06-12 19:40:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 89
+2025-06-12 19:40:34 - No hay comentario al 14 de abril en la fila 89
+2025-06-12 19:40:34 - Todo insertado correctamente
+2025-06-12 19:40:34 ============================================================
+2025-06-12 19:40:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 90
+2025-06-12 19:40:34 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO
+DE MALINALCO%' (fila Excel 90)
+2025-06-12 19:40:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 91
+2025-06-12 19:40:34 - NOMBRE DEL PROSPECTO no encontrado para '%MARCO ANTONIO CRUZ OLIVARES%' (fila Excel 91)
+2025-06-12 19:40:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 92
+2025-06-12 19:40:35 - NOMBRE DEL PROSPECTO no encontrado para '%SERGIO SANCHEZ NUÑEZ%' (fila Excel 92)
+2025-06-12 19:40:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 93
+2025-06-12 19:40:35 - NOMBRE DEL PROSPECTO no encontrado para '%FRANCISCO CUESTAS GUTIERREZ%' (fila Excel 93)
+2025-06-12 19:40:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 94
+2025-06-12 19:40:35 - NOMBRE DEL PROSPECTO no encontrado para '%MERCADO AUTOCONCENTRACIONES%' (fila Excel 94)
+2025-06-12 19:40:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 95
+2025-06-12 19:40:35 - NOMBRE DEL PROSPECTO no encontrado para '%JM TRASALDOS%' (fila Excel 95)
+2025-06-12 19:40:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 96
+2025-06-12 19:40:36 - NOMBRE DEL PROSPECTO no encontrado para '%SERGIO SANCHEZ NUÑEZ%' (fila Excel 96)
+2025-06-12 19:40:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 97
+2025-06-12 19:40:36 - NOMBRE DEL PROSPECTO no encontrado para '%HECTOR ARMANDO ORTEGA NUÑEZ%' (fila Excel 97)
+2025-06-12 19:40:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 98
+2025-06-12 19:40:36 - NOMBRE DEL PROSPECTO no encontrado para '%POLICÍA AUXILIAR DEL GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO%' (fila Excel 98)
+2025-06-12 19:40:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 99
+2025-06-12 19:40:36 - NOMBRE DEL PROSPECTO no encontrado para '%POLICÍA AUXILIAR DEL GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO%' (fila Excel 99)
+2025-06-12 19:40:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 100
+2025-06-12 19:40:37 - NOMBRE DEL PROSPECTO no encontrado para '%UNIV. POPULAR DE LA CHONTALPA%' (fila Excel 100)
+2025-06-12 19:40:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 101
+2025-06-12 19:40:37 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 102
+2025-06-12 19:40:37 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 102)
+2025-06-12 19:40:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 103
+2025-06-12 19:40:37 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 104
+2025-06-12 19:40:38 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 104)
+2025-06-12 19:40:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 105
+2025-06-12 19:40:38 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 105)
+2025-06-12 19:40:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 106
+2025-06-12 19:40:38 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 106)
+2025-06-12 19:40:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 107
+2025-06-12 19:40:38 - NOMBRE DEL PROSPECTO no encontrado para '%CLAUDIA MARCELA PRIEGO CUSTODIO%' (fila Excel 107)
+2025-06-12 19:40:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 108
+2025-06-12 19:40:39 - NOMBRE DEL PROSPECTO no encontrado para '%RICARDO ACOSTA SANCHEZ%' (fila Excel 108)
+2025-06-12 19:40:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 109
+2025-06-12 19:40:39 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE JALAPA%' (fila Excel 109)
+2025-06-12 19:40:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 110
+2025-06-12 19:40:39 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 110)
+2025-06-12 19:40:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 111
+2025-06-12 19:40:39 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 111)
+2025-06-12 19:40:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 112
+2025-06-12 19:40:40 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 112)
+2025-06-12 19:40:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 113
+2025-06-12 19:40:40 - NOMBRE DEL PROSPECTO no encontrado para '%BRODSA INTEGRAL%' (fila Excel 113)
+2025-06-12 19:40:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 114
+2025-06-12 19:40:40 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 114)
+2025-06-12 19:40:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 115
+2025-06-12 19:40:40 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 116
+2025-06-12 19:40:41 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 117
+2025-06-12 19:40:41 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 118
+2025-06-12 19:40:41 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 119
+2025-06-12 19:40:41 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 120
+2025-06-12 19:40:42 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 121
+2025-06-12 19:40:42 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 122
+2025-06-12 19:40:42 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:40:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 123
+2025-06-12 19:40:42 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:40:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 124
+2025-06-12 19:40:43 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:40:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 125
+2025-06-12 19:40:43 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:40:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 127
+2025-06-12 19:40:43 - NOMBRE DEL PROSPECTO no encontrado para '%REPARTO Y PAQUETERIA MAC SA DE CV%' (fila Excel 127)
+2025-06-12 19:40:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 128
+2025-06-12 19:40:43 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:40:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 129
+2025-06-12 19:40:44 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:40:44 - =============== COMIENZA EJECUCIÓN - Procesando fila 130
+2025-06-12 19:40:44 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:40:44 - =============== COMIENZA EJECUCIÓN - Procesando fila 131
+2025-06-12 19:40:44 - NOMBRE DEL PROSPECTO no encontrado para '%MUULK MOVILIDAD SA DE CV%' (fila Excel 131)
+2025-06-12 19:40:44 - =============== COMIENZA EJECUCIÓN - Procesando fila 132
+2025-06-12 19:40:45 - NOMBRE DEL PROSPECTO no encontrado para '%LEPAD SA DE CV%' (fila Excel 132)
+2025-06-12 19:40:45 - =============== COMIENZA EJECUCIÓN - Procesando fila 133
+2025-06-12 19:40:45 - NOMBRE DEL PROSPECTO no encontrado para '%LDR SOLUTIONS%' (fila Excel 133)
+2025-06-12 19:40:45 - Resumen final:
+2025-06-12 19:40:45 - Registros insertados correctamente: 43
+2025-06-12 19:40:45 - Registros omitidos por validación: 81
+2025-06-12 19:40:45 ============================================================
+2025-06-12 19:41:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 1
+2025-06-12 19:41:33 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:33 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:33 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE CHIHUAHUA%
+2025-06-12 19:41:33 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:33 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:33 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:33 - Todo insertado correctamente
+2025-06-12 19:41:33 ============================================================
+2025-06-12 19:41:33 - =============== COMIENZA EJECUCIÓN - Procesando fila 2
+2025-06-12 19:41:33 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:33 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:33 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE CHIHUAHUA%
+2025-06-12 19:41:33 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:33 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:33 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:41:34 - Todo insertado correctamente
+2025-06-12 19:41:34 ============================================================
+2025-06-12 19:41:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 3
+2025-06-12 19:41:34 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:34 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:34 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE CHIHUAHUA%
+2025-06-12 19:41:34 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:34 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:34 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:41:34 - No hay comentario al 14 de abril en la fila 3
+2025-06-12 19:41:34 - Todo insertado correctamente
+2025-06-12 19:41:34 ============================================================
+2025-06-12 19:41:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 4
+2025-06-12 19:41:34 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:34 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:34 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE MORELOS%
+2025-06-12 19:41:34 - NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 4)
+2025-06-12 19:41:34 - =============== COMIENZA EJECUCIÓN - Procesando fila 5
+2025-06-12 19:41:34 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:35 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:35 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE MORELOS%
+2025-06-12 19:41:35 - NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 5)
+2025-06-12 19:41:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 6
+2025-06-12 19:41:35 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:35 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:35 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE MORELOS%
+2025-06-12 19:41:35 - NOMBRE DEL PROSPECTO no encontrado para '%GOBIERNO DEL ESTADO DE MORELOS%' (fila Excel 6)
+2025-06-12 19:41:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 7
+2025-06-12 19:41:35 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:35 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:35 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %YOSHIO MARTINEZ%
+2025-06-12 19:41:35 - NOMBRE DEL PROSPECTO no encontrado para '%YOSHIO MARTINEZ%' (fila Excel 7)
+2025-06-12 19:41:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 8
+2025-06-12 19:41:35 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:35 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:35 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %VARPA AUTOMOTORES%
+2025-06-12 19:41:35 - NOMBRE DEL PROSPECTO no encontrado para '%VARPA AUTOMOTORES%' (fila Excel 8)
+2025-06-12 19:41:35 - =============== COMIENZA EJECUCIÓN - Procesando fila 9
+2025-06-12 19:41:36 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:36 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:36 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MARIA DEL CARMEN MENA%
+2025-06-12 19:41:36 - NOMBRE DEL PROSPECTO no encontrado para '%MARIA DEL CARMEN MENA%' (fila Excel 9)
+2025-06-12 19:41:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 10
+2025-06-12 19:41:36 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:36 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:36 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %ALCALDIA IZTAPALAPA%
+2025-06-12 19:41:36 - NOMBRE DEL PROSPECTO no encontrado para '%ALCALDIA IZTAPALAPA%' (fila Excel 10)
+2025-06-12 19:41:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 11
+2025-06-12 19:41:36 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:36 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:36 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %JOSE GERARDO CERVANTES MEDELLIN%
+2025-06-12 19:41:36 - NOMBRE DEL PROSPECTO no encontrado para '%JOSE GERARDO CERVANTES MEDELLIN%' (fila Excel 11)
+2025-06-12 19:41:36 - =============== COMIENZA EJECUCIÓN - Procesando fila 12
+2025-06-12 19:41:36 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFS%
+2025-06-12 19:41:36 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:36 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE LA PAZ BCS%
+2025-06-12 19:41:36 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:36 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:36 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:37 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 12: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:37 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 12: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_COMENTARIOS_PROSPECIONES_OPERACIONES_COMERCIALES'. El conflicto ha aparecido en la base de datos 'dbLumoSysDesa', tabla 'iop.OPERACIONES_COMERCIALES', column 'OPP_ID'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción. (3621)")
+2025-06-12 19:41:37 - Todo insertado correctamente
+2025-06-12 19:41:37 ============================================================
+2025-06-12 19:41:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 13
+2025-06-12 19:41:37 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:37 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:37 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE BAJA CALIFORNIA%
+2025-06-12 19:41:37 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:37 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:37 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:41:37 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 13: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:37 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 13: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_COMENTARIOS_PROSPECIONES_OPERACIONES_COMERCIALES'. El conflicto ha aparecido en la base de datos 'dbLumoSysDesa', tabla 'iop.OPERACIONES_COMERCIALES', column 'OPP_ID'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción. (3621)")
+2025-06-12 19:41:37 - Todo insertado correctamente
+2025-06-12 19:41:37 ============================================================
+2025-06-12 19:41:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 14
+2025-06-12 19:41:37 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:37 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %EDUARDO HUMBERTO LORENZO%
+2025-06-12 19:41:37 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %AUTOMAX LAGUNA%
+2025-06-12 19:41:37 - NOMBRE DEL PROSPECTO no encontrado para '%AUTOMAX LAGUNA%' (fila Excel 14)
+2025-06-12 19:41:37 - =============== COMIENZA EJECUCIÓN - Procesando fila 15
+2025-06-12 19:41:38 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:38 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:38 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %INSTITUTO MEXICANO DEL SEGURO SOCIAL%
+2025-06-12 19:41:38 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:38 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:38 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %PRIVADO%
+2025-06-12 19:41:38 - Todo insertado correctamente
+2025-06-12 19:41:38 ============================================================
+2025-06-12 19:41:38 - =============== COMIENZA EJECUCIÓN - Procesando fila 16
+2025-06-12 19:41:38 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:38 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:38 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SECRETARIA DE HACIENDA Y CREDITO PUBLICO%
+2025-06-12 19:41:38 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:38 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:38 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %PRIVADO%
+2025-06-12 19:41:39 - Todo insertado correctamente
+2025-06-12 19:41:39 ============================================================
+2025-06-12 19:41:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 17
+2025-06-12 19:41:39 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:39 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:39 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SERVICIO NACIONAL DE SANIDAD INOCUIDAD Y CALIDAD AGROALIMENTARIA%
+2025-06-12 19:41:39 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:39 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:39 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %PRIVADO%
+2025-06-12 19:41:39 - Todo insertado correctamente
+2025-06-12 19:41:39 ============================================================
+2025-06-12 19:41:39 - =============== COMIENZA EJECUCIÓN - Procesando fila 18
+2025-06-12 19:41:39 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:39 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:39 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FISCALIA GENERAL DE JUSTICIA DE LA CIUDAD DE MEXICO%
+2025-06-12 19:41:39 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:39 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:39 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %FEDERAL%
+2025-06-12 19:41:40 - Todo insertado correctamente
+2025-06-12 19:41:40 ============================================================
+2025-06-12 19:41:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 19
+2025-06-12 19:41:40 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:40 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:40 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SISTEMA PUBLICO DE RADIODIFUSION DEL ESTADO MEXICANO%
+2025-06-12 19:41:40 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:40 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:40 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %FEDERAL%
+2025-06-12 19:41:40 - Todo insertado correctamente
+2025-06-12 19:41:40 ============================================================
+2025-06-12 19:41:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 21
+2025-06-12 19:41:40 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:40 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:40 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO%
+2025-06-12 19:41:40 - NOMBRE DEL PROSPECTO no encontrado para '%BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO%' (fila Excel 21)
+2025-06-12 19:41:40 - =============== COMIENZA EJECUCIÓN - Procesando fila 22
+2025-06-12 19:41:41 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:41 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:41 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES FREIGHLINER%
+2025-06-12 19:41:41 - NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES FREIGHLINER%' (fila Excel 22)
+2025-06-12 19:41:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 23
+2025-06-12 19:41:41 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:41 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:41 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES 5 TONELADAS%
+2025-06-12 19:41:41 - NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO MEXICANO DEL SEGURO SOCIAL CAMIONES 5 TONELADAS%' (fila Excel 23)
+2025-06-12 19:41:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 24
+2025-06-12 19:41:41 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:41 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JAIME SANTOS%
+2025-06-12 19:41:41 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %COMISION NACIONAL DEL AGUA%
+2025-06-12 19:41:41 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:41 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:41 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %FEDERAL%
+2025-06-12 19:41:41 - Todo insertado correctamente
+2025-06-12 19:41:41 ============================================================
+2025-06-12 19:41:41 - =============== COMIENZA EJECUCIÓN - Procesando fila 25
+2025-06-12 19:41:42 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:42 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %NOE EZAEL ROJAS%
+2025-06-12 19:41:42 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %TECNOLOGICO DE ESTUDIOS SUPERIORES DE JOCOTITLAN%
+2025-06-12 19:41:42 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:42 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:42 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:41:42 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 25: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:42 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 25: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_COMENTARIOS_PROSPECIONES_OPERACIONES_COMERCIALES'. El conflicto ha aparecido en la base de datos 'dbLumoSysDesa', tabla 'iop.OPERACIONES_COMERCIALES', column 'OPP_ID'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción. (3621)")
+2025-06-12 19:41:42 - Todo insertado correctamente
+2025-06-12 19:41:42 ============================================================
+2025-06-12 19:41:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 27
+2025-06-12 19:41:42 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:42 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %MONICA HUICOCHEA%
+2025-06-12 19:41:42 - EJECUTIVO COMERCIAL no encontrado para '%MONICA HUICOCHEA%' (fila Excel 27)
+2025-06-12 19:41:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 28
+2025-06-12 19:41:42 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:42 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %MONICA HUICOCHEA%
+2025-06-12 19:41:42 - EJECUTIVO COMERCIAL no encontrado para '%MONICA HUICOCHEA%' (fila Excel 28)
+2025-06-12 19:41:42 - =============== COMIENZA EJECUCIÓN - Procesando fila 29
+2025-06-12 19:41:43 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:43 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JOSE FRANCISCO GUTIERREZ%
+2025-06-12 19:41:43 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GUADALUPE NUEVO LEÓN%
+2025-06-12 19:41:43 - NOMBRE DEL PROSPECTO no encontrado para '%GUADALUPE NUEVO LEÓN%' (fila Excel 29)
+2025-06-12 19:41:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 30
+2025-06-12 19:41:43 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:43 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JOSE FRANCISCO GUTIERREZ%
+2025-06-12 19:41:43 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GUADALUPE NUEVO LEÓN%
+2025-06-12 19:41:43 - NOMBRE DEL PROSPECTO no encontrado para '%GUADALUPE NUEVO LEÓN%' (fila Excel 30)
+2025-06-12 19:41:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 31
+2025-06-12 19:41:43 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:43 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JOSE FRANCISCO GUTIERREZ%
+2025-06-12 19:41:43 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SOCIEDAD HIPOTECARIA FEDERAL%
+2025-06-12 19:41:43 - NOMBRE DEL PROSPECTO no encontrado para '%SOCIEDAD HIPOTECARIA FEDERAL%' (fila Excel 31)
+2025-06-12 19:41:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 32
+2025-06-12 19:41:43 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:43 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %AURELIO VARGAS%
+2025-06-12 19:41:43 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SADER FERTILIZANTES%
+2025-06-12 19:41:43 - NOMBRE DEL PROSPECTO no encontrado para '%SADER FERTILIZANTES%' (fila Excel 32)
+2025-06-12 19:41:43 - =============== COMIENZA EJECUCIÓN - Procesando fila 33
+2025-06-12 19:41:44 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:44 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %AURELIO VARGAS%
+2025-06-12 19:41:44 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %DICONSA%
+2025-06-12 19:41:44 - NOMBRE DEL PROSPECTO no encontrado para '%DICONSA%' (fila Excel 33)
+2025-06-12 19:41:44 - =============== COMIENZA EJECUCIÓN - Procesando fila 34
+2025-06-12 19:41:44 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:44 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %AURELIO VARGAS%
+2025-06-12 19:41:44 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %COMITE ESTATAL DE SANIDAD VEGETAL DE SAN LUIS POTOSÍ%
+2025-06-12 19:41:44 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:44 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:44 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:44 - Todo insertado correctamente
+2025-06-12 19:41:44 ============================================================
+2025-06-12 19:41:44 - =============== COMIENZA EJECUCIÓN - Procesando fila 35
+2025-06-12 19:41:44 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:44 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %AURELIO VARGAS%
+2025-06-12 19:41:44 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %INTERAPAS SLP ORGANISMO DE AGUAS%
+2025-06-12 19:41:44 - NOMBRE DEL PROSPECTO no encontrado para '%INTERAPAS SLP ORGANISMO DE AGUAS%' (fila Excel 35)
+2025-06-12 19:41:44 - =============== COMIENZA EJECUCIÓN - Procesando fila 36
+2025-06-12 19:41:45 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:45 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %AURELIO VARGAS%
+2025-06-12 19:41:45 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %LICONSA%
+2025-06-12 19:41:45 - NOMBRE DEL PROSPECTO no encontrado para '%LICONSA%' (fila Excel 36)
+2025-06-12 19:41:45 - =============== COMIENZA EJECUCIÓN - Procesando fila 37
+2025-06-12 19:41:45 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:45 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %AURELIO VARGAS%
+2025-06-12 19:41:45 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE COLIMA%
+2025-06-12 19:41:45 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:45 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:45 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:41:45 - Todo insertado correctamente
+2025-06-12 19:41:45 ============================================================
+2025-06-12 19:41:45 - =============== COMIENZA EJECUCIÓN - Procesando fila 38
+2025-06-12 19:41:45 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFS%
+2025-06-12 19:41:46 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %AURELIO VARGAS%
+2025-06-12 19:41:46 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %ECO MANAGEMENT%
+2025-06-12 19:41:46 - NOMBRE DEL PROSPECTO no encontrado para '%ECO MANAGEMENT%' (fila Excel 38)
+2025-06-12 19:41:46 - =============== COMIENZA EJECUCIÓN - Procesando fila 39
+2025-06-12 19:41:46 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFS%
+2025-06-12 19:41:46 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %AURELIO VARGAS%
+2025-06-12 19:41:46 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %CHIGNAHUAPAN%
+2025-06-12 19:41:46 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:46 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:46 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:41:46 - Todo insertado correctamente
+2025-06-12 19:41:46 ============================================================
+2025-06-12 19:41:46 - =============== COMIENZA EJECUCIÓN - Procesando fila 40
+2025-06-12 19:41:46 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:46 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JESUS RUIZ%
+2025-06-12 19:41:46 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TALA, JALISCO%
+2025-06-12 19:41:46 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:46 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:46 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:47 - No hay comentario al 14 de abril en la fila 40
+2025-06-12 19:41:47 - Todo insertado correctamente
+2025-06-12 19:41:47 ============================================================
+2025-06-12 19:41:47 - =============== COMIENZA EJECUCIÓN - Procesando fila 41
+2025-06-12 19:41:47 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:47 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JESUS RUIZ%
+2025-06-12 19:41:47 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO AGUASCALIENTES%
+2025-06-12 19:41:47 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:47 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:47 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:47 - No hay comentario al 14 de abril en la fila 41
+2025-06-12 19:41:47 - Todo insertado correctamente
+2025-06-12 19:41:47 ============================================================
+2025-06-12 19:41:47 - =============== COMIENZA EJECUCIÓN - Procesando fila 42
+2025-06-12 19:41:47 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:47 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JESUS RUIZ%
+2025-06-12 19:41:47 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO AGUASCALIENTES%
+2025-06-12 19:41:47 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:47 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:47 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:48 - No hay comentario al 14 de abril en la fila 42
+2025-06-12 19:41:48 - Todo insertado correctamente
+2025-06-12 19:41:48 ============================================================
+2025-06-12 19:41:48 - =============== COMIENZA EJECUCIÓN - Procesando fila 43
+2025-06-12 19:41:48 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:48 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %JESUS RUIZ%
+2025-06-12 19:41:48 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %KING MAR%
+2025-06-12 19:41:48 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:48 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:48 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %PRIVADO%
+2025-06-12 19:41:48 - No hay comentario al 14 de abril en la fila 43
+2025-06-12 19:41:48 - Todo insertado correctamente
+2025-06-12 19:41:48 ============================================================
+2025-06-12 19:41:48 - =============== COMIENZA EJECUCIÓN - Procesando fila 44
+2025-06-12 19:41:48 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:48 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:41:48 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE BENITO JUAREZ%
+2025-06-12 19:41:48 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:41:48 - =============== COMIENZA EJECUCIÓN - Procesando fila 45
+2025-06-12 19:41:48 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:49 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:41:49 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE BENITO JUAREZ%
+2025-06-12 19:41:49 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:41:49 - =============== COMIENZA EJECUCIÓN - Procesando fila 46
+2025-06-12 19:41:49 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:49 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:41:49 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE BENITO JUAREZ%
+2025-06-12 19:41:49 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:41:49 - =============== COMIENZA EJECUCIÓN - Procesando fila 47
+2025-06-12 19:41:49 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:49 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:41:49 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %OTHON P. BLANCO%
+2025-06-12 19:41:49 - NOMBRE DEL PROSPECTO no encontrado para '%OTHON P. BLANCO%' (fila Excel 47)
+2025-06-12 19:41:49 - =============== COMIENZA EJECUCIÓN - Procesando fila 52
+2025-06-12 19:41:49 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:41:49 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:41:49 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %INSTITUTO ESTATAL DE TRANSPORTE DE CAMPECHE%
+2025-06-12 19:41:49 - NOMBRE DEL PROSPECTO no encontrado para '%INSTITUTO ESTATAL DE TRANSPORTE DE CAMPECHE%' (fila Excel 52)
+2025-06-12 19:41:49 - =============== COMIENZA EJECUCIÓN - Procesando fila 53
+2025-06-12 19:41:49 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:50 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:41:50 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %CODEQUIM%
+2025-06-12 19:41:50 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:41:50 - =============== COMIENZA EJECUCIÓN - Procesando fila 55
+2025-06-12 19:41:50 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:50 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:41:50 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TEAPA%
+2025-06-12 19:41:50 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 55)
+2025-06-12 19:41:50 - =============== COMIENZA EJECUCIÓN - Procesando fila 57
+2025-06-12 19:41:50 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:50 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:41:50 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TEAPA%
+2025-06-12 19:41:50 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 57)
+2025-06-12 19:41:50 - =============== COMIENZA EJECUCIÓN - Procesando fila 58
+2025-06-12 19:41:50 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:50 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:41:50 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FISCALIA DEL ESTADO DE TABASCO%
+2025-06-12 19:41:50 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 58)
+2025-06-12 19:41:50 - =============== COMIENZA EJECUCIÓN - Procesando fila 59
+2025-06-12 19:41:50 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:51 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:41:51 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FISCALIA DEL ESTADO DE TABASCO%
+2025-06-12 19:41:51 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 59)
+2025-06-12 19:41:51 - =============== COMIENZA EJECUCIÓN - Procesando fila 60
+2025-06-12 19:41:51 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:41:51 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:41:51 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FISCALIA DEL ESTADO DE TABASCO%
+2025-06-12 19:41:51 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 60)
+2025-06-12 19:41:51 - =============== COMIENZA EJECUCIÓN - Procesando fila 61
+2025-06-12 19:41:51 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %MAC%
+2025-06-12 19:41:51 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:51 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE ATIZAPÁN%
+2025-06-12 19:41:51 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE ATIZAPÁN%' (fila Excel 61)
+2025-06-12 19:41:51 - =============== COMIENZA EJECUCIÓN - Procesando fila 62
+2025-06-12 19:41:51 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:51 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:51 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE JILOTEPEC%
+2025-06-12 19:41:51 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:51 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:51 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:52 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 62: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:52 - No hay comentario al 14 de abril en la fila 62
+2025-06-12 19:41:52 - Todo insertado correctamente
+2025-06-12 19:41:52 ============================================================
+2025-06-12 19:41:52 - =============== COMIENZA EJECUCIÓN - Procesando fila 63
+2025-06-12 19:41:52 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:52 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:52 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE JILOTEPEC%
+2025-06-12 19:41:52 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:52 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:52 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:41:52 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 63: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:52 - No hay comentario al 14 de abril en la fila 63
+2025-06-12 19:41:52 - Todo insertado correctamente
+2025-06-12 19:41:52 ============================================================
+2025-06-12 19:41:52 - =============== COMIENZA EJECUCIÓN - Procesando fila 64
+2025-06-12 19:41:52 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:52 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:52 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE JILOTEPEC%
+2025-06-12 19:41:52 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:52 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:52 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:53 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 64: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:53 - No hay comentario al 14 de abril en la fila 64
+2025-06-12 19:41:53 - Todo insertado correctamente
+2025-06-12 19:41:53 ============================================================
+2025-06-12 19:41:53 - =============== COMIENZA EJECUCIÓN - Procesando fila 65
+2025-06-12 19:41:53 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:53 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:53 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %INSTITUTO MUNICIPAL DE CULTURA FISICA Y DEPORTE DE JILOTEPEC, MEXICO%
+2025-06-12 19:41:53 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:53 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:53 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:53 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 65: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:53 - No hay comentario al 14 de abril en la fila 65
+2025-06-12 19:41:53 - Todo insertado correctamente
+2025-06-12 19:41:53 ============================================================
+2025-06-12 19:41:53 - =============== COMIENZA EJECUCIÓN - Procesando fila 66
+2025-06-12 19:41:53 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:53 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:53 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %ORGANISMO PUBLICO DESCENTRALIZADO PARA LA PRESTACION DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE JILOTEPEC%
+2025-06-12 19:41:53 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:53 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:53 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:53 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 66: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:53 - No hay comentario al 14 de abril en la fila 66
+2025-06-12 19:41:53 - Todo insertado correctamente
+2025-06-12 19:41:53 ============================================================
+2025-06-12 19:41:53 - =============== COMIENZA EJECUCIÓN - Procesando fila 67
+2025-06-12 19:41:54 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:54 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:54 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE JILOTEPEC%
+2025-06-12 19:41:54 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:54 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:54 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:54 - Error al insertar COMENTARIOS_PROSPECIONES en fila Excel 67: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]El flujo del protocolo de llamada a procedimiento remoto (RPC) del flujo TDS entrante es incorrecto. Parámetro 5 (''): el valor proporcionado no es una instancia válida del tipo de datos float. Compruebe si hubiera datos no válidos en los datos de origen. Un ejemplo de un valor no válido son datos de tipo numérico con una escala que supera la precisión. (8023) (SQLExecDirectW)")
+2025-06-12 19:41:54 - No hay comentario al 14 de abril en la fila 67
+2025-06-12 19:41:54 - Todo insertado correctamente
+2025-06-12 19:41:54 ============================================================
+2025-06-12 19:41:54 - =============== COMIENZA EJECUCIÓN - Procesando fila 68
+2025-06-12 19:41:54 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:54 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:54 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE COACALCO%
+2025-06-12 19:41:54 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:54 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:54 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:54 - No hay comentario al 14 de abril en la fila 68
+2025-06-12 19:41:54 - Todo insertado correctamente
+2025-06-12 19:41:54 ============================================================
+2025-06-12 19:41:54 - =============== COMIENZA EJECUCIÓN - Procesando fila 69
+2025-06-12 19:41:54 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %ARRENDAMEX%
+2025-06-12 19:41:55 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:55 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %ORGANISMO PUBLICO DESCENTRALIZADO PARA LA PRESTACION DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COACALCO%
+2025-06-12 19:41:55 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:55 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:55 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:55 - No hay comentario al 14 de abril en la fila 69
+2025-06-12 19:41:55 - Todo insertado correctamente
+2025-06-12 19:41:55 ============================================================
+2025-06-12 19:41:55 - =============== COMIENZA EJECUCIÓN - Procesando fila 70
+2025-06-12 19:41:55 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:55 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:55 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE DURANGO%
+2025-06-12 19:41:55 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:55 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:55 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:55 - No hay comentario al 14 de abril en la fila 70
+2025-06-12 19:41:55 - Todo insertado correctamente
+2025-06-12 19:41:55 ============================================================
+2025-06-12 19:41:55 - =============== COMIENZA EJECUCIÓN - Procesando fila 71
+2025-06-12 19:41:55 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:41:55 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:55 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %TV CABLE GUADIANA SA DECV%
+2025-06-12 19:41:55 - NOMBRE DEL PROSPECTO no encontrado para '%TV CABLE GUADIANA SA DECV%' (fila Excel 71)
+2025-06-12 19:41:55 - =============== COMIENZA EJECUCIÓN - Procesando fila 72
+2025-06-12 19:41:56 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:56 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:56 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %AGUAS DEL MUNICIPIO DE DURANGO%
+2025-06-12 19:41:56 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:56 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:56 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:56 - No hay comentario al 14 de abril en la fila 72
+2025-06-12 19:41:56 - Todo insertado correctamente
+2025-06-12 19:41:56 ============================================================
+2025-06-12 19:41:56 - =============== COMIENZA EJECUCIÓN - Procesando fila 73
+2025-06-12 19:41:56 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:56 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:56 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE CUAUTITLAN IZCALLI%
+2025-06-12 19:41:56 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:56 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:56 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:56 - No hay comentario al 14 de abril en la fila 73
+2025-06-12 19:41:56 - Todo insertado correctamente
+2025-06-12 19:41:56 ============================================================
+2025-06-12 19:41:56 - =============== COMIENZA EJECUCIÓN - Procesando fila 74
+2025-06-12 19:41:57 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %IAM%
+2025-06-12 19:41:57 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:57 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GRUPO ACASA%
+2025-06-12 19:41:57 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:57 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:57 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %PRIVADO%
+2025-06-12 19:41:57 - No hay comentario al 14 de abril en la fila 74
+2025-06-12 19:41:57 - Todo insertado correctamente
+2025-06-12 19:41:57 ============================================================
+2025-06-12 19:41:57 - =============== COMIENZA EJECUCIÓN - Procesando fila 75
+2025-06-12 19:41:57 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:57 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:57 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GRUPO ACASA%
+2025-06-12 19:41:57 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:57 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:57 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %PRIVADO%
+2025-06-12 19:41:57 - No hay comentario al 14 de abril en la fila 75
+2025-06-12 19:41:57 - Todo insertado correctamente
+2025-06-12 19:41:57 ============================================================
+2025-06-12 19:41:57 - =============== COMIENZA EJECUCIÓN - Procesando fila 76
+2025-06-12 19:41:57 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:57 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:58 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE ATIZAPÁN%
+2025-06-12 19:41:58 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE ATIZAPÁN%' (fila Excel 76)
+2025-06-12 19:41:58 - =============== COMIENZA EJECUCIÓN - Procesando fila 77
+2025-06-12 19:41:58 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:58 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:58 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE CHALCO%
+2025-06-12 19:41:58 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %ARRENDAMIENTO NUEVOS%
+2025-06-12 19:41:58 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:58 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:58 - No hay comentario al 14 de abril en la fila 77
+2025-06-12 19:41:58 - Todo insertado correctamente
+2025-06-12 19:41:58 ============================================================
+2025-06-12 19:41:58 - =============== COMIENZA EJECUCIÓN - Procesando fila 78
+2025-06-12 19:41:58 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:58 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:58 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TEOLOYUCAN%
+2025-06-12 19:41:58 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:58 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:58 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:41:58 - No hay comentario al 14 de abril en la fila 78
+2025-06-12 19:41:59 - Todo insertado correctamente
+2025-06-12 19:41:59 ============================================================
+2025-06-12 19:41:59 - =============== COMIENZA EJECUCIÓN - Procesando fila 79
+2025-06-12 19:41:59 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFS%
+2025-06-12 19:41:59 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:59 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TEXCOCO%
+2025-06-12 19:41:59 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEXCOCO%' (fila Excel 79)
+2025-06-12 19:41:59 - =============== COMIENZA EJECUCIÓN - Procesando fila 80
+2025-06-12 19:41:59 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFS%
+2025-06-12 19:41:59 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ESTEBAN VALLE%
+2025-06-12 19:41:59 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO
+CHIMALHUACAN%
+2025-06-12 19:41:59 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO
+CHIMALHUACAN%' (fila Excel 80)
+2025-06-12 19:41:59 - =============== COMIENZA EJECUCIÓN - Procesando fila 81
+2025-06-12 19:41:59 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:41:59 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:41:59 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE CHIHUAHUA%
+2025-06-12 19:41:59 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:41:59 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:41:59 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:41:59 - No hay comentario al 14 de abril en la fila 81
+2025-06-12 19:41:59 - Todo insertado correctamente
+2025-06-12 19:41:59 ============================================================
+2025-06-12 19:41:59 - =============== COMIENZA EJECUCIÓN - Procesando fila 82
+2025-06-12 19:42:00 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:00 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:00 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE CHIHUAHUA%
+2025-06-12 19:42:00 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:42:00 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:42:00 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:42:00 - No hay comentario al 14 de abril en la fila 82
+2025-06-12 19:42:00 - Todo insertado correctamente
+2025-06-12 19:42:00 ============================================================
+2025-06-12 19:42:00 - =============== COMIENZA EJECUCIÓN - Procesando fila 83
+2025-06-12 19:42:00 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:00 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:00 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE MICHOACAN%
+2025-06-12 19:42:00 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:42:00 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:42:00 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %ESTATAL%
+2025-06-12 19:42:00 - No hay comentario al 14 de abril en la fila 83
+2025-06-12 19:42:00 - Todo insertado correctamente
+2025-06-12 19:42:00 ============================================================
+2025-06-12 19:42:00 - =============== COMIENZA EJECUCIÓN - Procesando fila 84
+2025-06-12 19:42:01 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:01 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:01 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE METEPEC%
+2025-06-12 19:42:01 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:42:01 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:42:01 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:42:01 - No hay comentario al 14 de abril en la fila 84
+2025-06-12 19:42:01 - Todo insertado correctamente
+2025-06-12 19:42:01 ============================================================
+2025-06-12 19:42:01 - =============== COMIENZA EJECUCIÓN - Procesando fila 85
+2025-06-12 19:42:01 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:01 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:01 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE METEPEC%
+2025-06-12 19:42:01 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:42:01 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:42:01 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:42:01 - No hay comentario al 14 de abril en la fila 85
+2025-06-12 19:42:01 - Todo insertado correctamente
+2025-06-12 19:42:01 ============================================================
+2025-06-12 19:42:01 - =============== COMIENZA EJECUCIÓN - Procesando fila 86
+2025-06-12 19:42:01 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:02 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:02 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE METEPEC%
+2025-06-12 19:42:02 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:42:02 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:42:02 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:42:02 - No hay comentario al 14 de abril en la fila 86
+2025-06-12 19:42:02 - Todo insertado correctamente
+2025-06-12 19:42:02 ============================================================
+2025-06-12 19:42:02 - =============== COMIENZA EJECUCIÓN - Procesando fila 87
+2025-06-12 19:42:02 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:02 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:02 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE METEPEC%
+2025-06-12 19:42:02 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:42:02 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:42:02 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:42:02 - No hay comentario al 14 de abril en la fila 87
+2025-06-12 19:42:02 - Todo insertado correctamente
+2025-06-12 19:42:02 ============================================================
+2025-06-12 19:42:02 - =============== COMIENZA EJECUCIÓN - Procesando fila 88
+2025-06-12 19:42:02 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:02 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:02 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE METEPEC%
+2025-06-12 19:42:03 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:42:03 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:42:03 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:42:03 - No hay comentario al 14 de abril en la fila 88
+2025-06-12 19:42:03 - Todo insertado correctamente
+2025-06-12 19:42:03 ============================================================
+2025-06-12 19:42:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 89
+2025-06-12 19:42:03 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:03 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:03 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE METEPEC%
+2025-06-12 19:42:03 - Ejecutando query: 
+                SELECT PRP_ID FROM IOP.PRODUCTOS_PROSPECIONES 
+                WHERE PRP_DESCRIPCION LIKE ?
+             con parametro: %VENTA SEMINUEVOS%
+2025-06-12 19:42:03 - Ejecutando query: 
+                SELECT TRO_ID FROM IOP.TIPOS_PROCEDIMIENTOS_PROSPECIONES
+                WHERE TRO_DESCRIPCION LIKE ?
+             con parametro: %POR DEFINIR%
+2025-06-12 19:42:03 - Ejecutando query: 
+                SELECT TNO_ID FROM IOP.TIPOS_CLIENTES_ORDENES_COMPRAS_ENTREGAS 
+                WHERE TNO_DESCRIPCION LIKE ?
+             con parametro: %MUNICIPAL%
+2025-06-12 19:42:03 - No hay comentario al 14 de abril en la fila 89
+2025-06-12 19:42:03 - Todo insertado correctamente
+2025-06-12 19:42:03 ============================================================
+2025-06-12 19:42:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 90
+2025-06-12 19:42:03 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:03 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:03 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO
+DE MALINALCO%
+2025-06-12 19:42:03 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO
+DE MALINALCO%' (fila Excel 90)
+2025-06-12 19:42:03 - =============== COMIENZA EJECUCIÓN - Procesando fila 91
+2025-06-12 19:42:04 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:04 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:04 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MARCO ANTONIO CRUZ OLIVARES%
+2025-06-12 19:42:04 - NOMBRE DEL PROSPECTO no encontrado para '%MARCO ANTONIO CRUZ OLIVARES%' (fila Excel 91)
+2025-06-12 19:42:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 92
+2025-06-12 19:42:04 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:04 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:04 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SERGIO SANCHEZ NUÑEZ%
+2025-06-12 19:42:04 - NOMBRE DEL PROSPECTO no encontrado para '%SERGIO SANCHEZ NUÑEZ%' (fila Excel 92)
+2025-06-12 19:42:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 93
+2025-06-12 19:42:04 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:04 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:04 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FRANCISCO CUESTAS GUTIERREZ%
+2025-06-12 19:42:04 - NOMBRE DEL PROSPECTO no encontrado para '%FRANCISCO CUESTAS GUTIERREZ%' (fila Excel 93)
+2025-06-12 19:42:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 94
+2025-06-12 19:42:04 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:04 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:04 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MERCADO AUTOCONCENTRACIONES%
+2025-06-12 19:42:04 - NOMBRE DEL PROSPECTO no encontrado para '%MERCADO AUTOCONCENTRACIONES%' (fila Excel 94)
+2025-06-12 19:42:04 - =============== COMIENZA EJECUCIÓN - Procesando fila 95
+2025-06-12 19:42:05 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:05 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:05 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %JM TRASALDOS%
+2025-06-12 19:42:05 - NOMBRE DEL PROSPECTO no encontrado para '%JM TRASALDOS%' (fila Excel 95)
+2025-06-12 19:42:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 96
+2025-06-12 19:42:05 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:05 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:05 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SERGIO SANCHEZ NUÑEZ%
+2025-06-12 19:42:05 - NOMBRE DEL PROSPECTO no encontrado para '%SERGIO SANCHEZ NUÑEZ%' (fila Excel 96)
+2025-06-12 19:42:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 97
+2025-06-12 19:42:05 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:05 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:05 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %HECTOR ARMANDO ORTEGA NUÑEZ%
+2025-06-12 19:42:05 - NOMBRE DEL PROSPECTO no encontrado para '%HECTOR ARMANDO ORTEGA NUÑEZ%' (fila Excel 97)
+2025-06-12 19:42:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 98
+2025-06-12 19:42:05 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:05 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:05 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %POLICÍA AUXILIAR DEL GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO%
+2025-06-12 19:42:05 - NOMBRE DEL PROSPECTO no encontrado para '%POLICÍA AUXILIAR DEL GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO%' (fila Excel 98)
+2025-06-12 19:42:05 - =============== COMIENZA EJECUCIÓN - Procesando fila 99
+2025-06-12 19:42:06 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:06 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %ISAAC CUESTAS%
+2025-06-12 19:42:06 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %POLICÍA AUXILIAR DEL GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO%
+2025-06-12 19:42:06 - NOMBRE DEL PROSPECTO no encontrado para '%POLICÍA AUXILIAR DEL GOBIERNO DEL ESTADO DE MICHOACÁN DE OCAMPO%' (fila Excel 99)
+2025-06-12 19:42:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 100
+2025-06-12 19:42:06 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:06 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:06 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %UNIV. POPULAR DE LA CHONTALPA%
+2025-06-12 19:42:06 - NOMBRE DEL PROSPECTO no encontrado para '%UNIV. POPULAR DE LA CHONTALPA%' (fila Excel 100)
+2025-06-12 19:42:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 101
+2025-06-12 19:42:06 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:42:06 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:06 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SECRETARIA DE BIENESTAR%
+2025-06-12 19:42:06 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 102
+2025-06-12 19:42:06 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:06 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:06 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TEAPA%
+2025-06-12 19:42:06 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 102)
+2025-06-12 19:42:06 - =============== COMIENZA EJECUCIÓN - Procesando fila 103
+2025-06-12 19:42:07 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:42:07 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL%
+2025-06-12 19:42:07 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %TRIBUNAL SUPERIOR DE JUSTICIA%
+2025-06-12 19:42:07 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 104
+2025-06-12 19:42:07 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:42:07 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:07 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FISCALIA DEL ESTADO DE TABASCO%
+2025-06-12 19:42:07 - NOMBRE DEL PROSPECTO no encontrado para '%FISCALIA DEL ESTADO DE TABASCO%' (fila Excel 104)
+2025-06-12 19:42:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 105
+2025-06-12 19:42:07 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:07 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:07 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TEAPA%
+2025-06-12 19:42:07 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 105)
+2025-06-12 19:42:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 106
+2025-06-12 19:42:07 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:07 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:07 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TEAPA%
+2025-06-12 19:42:07 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 106)
+2025-06-12 19:42:07 - =============== COMIENZA EJECUCIÓN - Procesando fila 107
+2025-06-12 19:42:08 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:42:08 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:08 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %CLAUDIA MARCELA PRIEGO CUSTODIO%
+2025-06-12 19:42:08 - NOMBRE DEL PROSPECTO no encontrado para '%CLAUDIA MARCELA PRIEGO CUSTODIO%' (fila Excel 107)
+2025-06-12 19:42:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 108
+2025-06-12 19:42:08 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:42:08 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:08 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %RICARDO ACOSTA SANCHEZ%
+2025-06-12 19:42:08 - NOMBRE DEL PROSPECTO no encontrado para '%RICARDO ACOSTA SANCHEZ%' (fila Excel 108)
+2025-06-12 19:42:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 109
+2025-06-12 19:42:08 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:08 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:08 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE JALAPA%
+2025-06-12 19:42:08 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE JALAPA%' (fila Excel 109)
+2025-06-12 19:42:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 110
+2025-06-12 19:42:08 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:08 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:08 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GRUAS GRIJALVA%
+2025-06-12 19:42:08 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 110)
+2025-06-12 19:42:08 - =============== COMIENZA EJECUCIÓN - Procesando fila 111
+2025-06-12 19:42:08 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:09 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:09 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GRUAS GRIJALVA%
+2025-06-12 19:42:09 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 111)
+2025-06-12 19:42:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 112
+2025-06-12 19:42:09 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %AOC%
+2025-06-12 19:42:09 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:09 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GRUAS GRIJALVA%
+2025-06-12 19:42:09 - NOMBRE DEL PROSPECTO no encontrado para '%GRUAS GRIJALVA%' (fila Excel 112)
+2025-06-12 19:42:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 113
+2025-06-12 19:42:09 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:09 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:09 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %BRODSA INTEGRAL%
+2025-06-12 19:42:09 - NOMBRE DEL PROSPECTO no encontrado para '%BRODSA INTEGRAL%' (fila Excel 113)
+2025-06-12 19:42:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 114
+2025-06-12 19:42:09 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:09 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %REYNA ISABEL CLEMENTE%
+2025-06-12 19:42:09 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE TEAPA%
+2025-06-12 19:42:09 - NOMBRE DEL PROSPECTO no encontrado para '%MUNICIPIO DE TEAPA%' (fila Excel 114)
+2025-06-12 19:42:09 - =============== COMIENZA EJECUCIÓN - Procesando fila 115
+2025-06-12 19:42:09 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:10 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:42:10 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %CODEQUIM%
+2025-06-12 19:42:10 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 116
+2025-06-12 19:42:10 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:10 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:42:10 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE BENITO JUAREZ%
+2025-06-12 19:42:10 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 117
+2025-06-12 19:42:10 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:10 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:42:10 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE YUCATAN%
+2025-06-12 19:42:10 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 118
+2025-06-12 19:42:10 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:10 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:42:10 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SISTEMA INTERMUNICIPAL DE GESTION DE RESIDUOS SOLIDOS, ZONA METROPOLITANA DE MERIDA , SIGER ZONA DE MERIDA%
+2025-06-12 19:42:10 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:10 - =============== COMIENZA EJECUCIÓN - Procesando fila 119
+2025-06-12 19:42:10 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:10 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:42:11 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %SISTEMA INTERMUNICIPAL DE GESTION DE RESIDUOS SOLIDOS, ZONA METROPOLITANA DE MERIDA , SIGER ZONA DE MERIDA%
+2025-06-12 19:42:11 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 120
+2025-06-12 19:42:11 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:11 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:42:11 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO%
+2025-06-12 19:42:11 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 121
+2025-06-12 19:42:11 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %ARRENDAMEX%
+2025-06-12 19:42:11 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:42:11 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO%
+2025-06-12 19:42:11 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 122
+2025-06-12 19:42:11 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %ARRENDAMEX%
+2025-06-12 19:42:11 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:11 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %ADMINISTRACION PORTUARIA INTEGRAL PUERTO VALLARTA%
+2025-06-12 19:42:11 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:42:11 - =============== COMIENZA EJECUCIÓN - Procesando fila 123
+2025-06-12 19:42:11 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:12 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:12 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO%
+2025-06-12 19:42:12 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:42:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 124
+2025-06-12 19:42:12 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:12 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:12 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %ORGANISMO PUBLICO DESCENTRALIZADO PARA LA PRESTACION DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COACALCO%
+2025-06-12 19:42:12 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:42:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 125
+2025-06-12 19:42:12 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LUMO%
+2025-06-12 19:42:12 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %FERNANDO MUÑOZ%
+2025-06-12 19:42:12 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE SOLIDARIDAD%
+2025-06-12 19:42:12 - Iniciales inválidas para DIRECTOR COMERCIAL: GCH
+2025-06-12 19:42:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 127
+2025-06-12 19:42:12 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:12 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:12 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %REPARTO Y PAQUETERIA MAC SA DE CV%
+2025-06-12 19:42:12 - NOMBRE DEL PROSPECTO no encontrado para '%REPARTO Y PAQUETERIA MAC SA DE CV%' (fila Excel 127)
+2025-06-12 19:42:12 - =============== COMIENZA EJECUCIÓN - Procesando fila 128
+2025-06-12 19:42:13 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:13 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:13 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUNICIPIO DE HERMOSILLO%
+2025-06-12 19:42:13 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:42:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 129
+2025-06-12 19:42:13 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:13 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:13 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %GOBIERNO DEL ESTADO DE MICHOACAN%
+2025-06-12 19:42:13 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:42:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 130
+2025-06-12 19:42:13 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:13 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:13 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %FONDO NACIONAL DE FOMENTO AL TURISMO%
+2025-06-12 19:42:13 - DIRECTOR COMERCIAL no encontrado con iniciales: DA
+2025-06-12 19:42:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 131
+2025-06-12 19:42:13 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:13 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:13 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %MUULK MOVILIDAD SA DE CV%
+2025-06-12 19:42:13 - NOMBRE DEL PROSPECTO no encontrado para '%MUULK MOVILIDAD SA DE CV%' (fila Excel 131)
+2025-06-12 19:42:13 - =============== COMIENZA EJECUCIÓN - Procesando fila 132
+2025-06-12 19:42:14 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %LFC%
+2025-06-12 19:42:14 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:14 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %LEPAD SA DE CV%
+2025-06-12 19:42:14 - NOMBRE DEL PROSPECTO no encontrado para '%LEPAD SA DE CV%' (fila Excel 132)
+2025-06-12 19:42:14 - =============== COMIENZA EJECUCIÓN - Procesando fila 133
+2025-06-12 19:42:14 - Ejecutando query: SELECT EMP_ID FROM EMPRESAS WHERE EMP_DESCRIPCION LIKE ? con parametro: %SICUREZZA%
+2025-06-12 19:42:14 - Ejecutando query: SELECT USU_ID FROM VST_USUARIOS WHERE (LTRIM(RTRIM(USU_NOMBRE)) + ' ' + LTRIM(RTRIM(USU_APELLIDO_PATERNO))) LIKE ? con parametro: %DANIEL ARRIAGA%
+2025-06-12 19:42:14 - Ejecutando query: SELECT CLI_ID FROM CLIENTES WHERE CLI_NOMBRE LIKE ? con parametro: %LDR SOLUTIONS%
+2025-06-12 19:42:14 - NOMBRE DEL PROSPECTO no encontrado para '%LDR SOLUTIONS%' (fila Excel 133)
+2025-06-12 19:42:14 - Resumen final:
+2025-06-12 19:42:14 - Registros insertados correctamente: 43
+2025-06-12 19:42:14 - Registros omitidos por validación: 81
+2025-06-12 19:42:14 ============================================================
