@@ -347,9 +347,13 @@ for index, row in df.iterrows():
             valor_activo = row['V. CONTRATO I.V.A. INCLUIDO']
             valor_activo = float(valor_activo) if pd.notnull(valor_activo) else 0
 
-            cantidad = row.get("# BIENES", "")
-            descripcion = row.get("DESCRIPCIÓN DE LOS BIENES", "")
+            if linea_negocio=="SEGUROS":
+                cantidad = "1"
+            else:
+                cantidad = row.get("# BIENES", "")
 
+            descripcion = row.get("DESCRIPCIÓN DE LOS BIENES", "")
+                        
             if pd.isna(cantidad) or not str(cantidad).strip() or pd.isna(descripcion) or not str(descripcion).strip():
                 escribir_log(f"No hay bienes en la fila {fila_excel}, se omite la fila completa.")
                 registros_omitidos += 1
@@ -461,6 +465,66 @@ for index, row in df.iterrows():
                 ), "COMENTARIOS_PROSPECIONES", fila_excel=fila_excel)                
             else:
                 escribir_log(f"No hay comentario al 14 de abril en la fila {fila_excel}")
+
+            comentarios14abril = row.get("COMENTARIOS 26-03-25", "")
+            if pd.notna(comentarios14abril) and str(comentarios14abril).strip():
+                nombre_completo_ejecutivo = row.get("EJECUTIVO COMERCIAL", "")
+                fecha_estimada_flag = 1 if fecha_estimada_cierre else 0  # bit: 1 si existe, 0 si no
+
+                coe_id = insert_and_get_id(cursor, """
+                    INSERT INTO IOP.COMENTARIOS_PROSPECIONES (
+                        COE_OPP_ID,
+                        COE_DESCRIPCION,
+                        COE_FECHA_REGISTRO,
+                        COE_USU_ID,
+                        COE_NOMBRE_COMPLETO,
+                        COE_FECHA_ESTIMADA_CIERRE,
+                        COE_ADJUDICADA,
+                        COE_CANCELADA
+                    )
+                    VALUES (?, ?, GETDATE(), ?, ?, ?, ?, ?);
+                    SELECT SCOPE_IDENTITY();
+                """, (
+                    opp_id,
+                    comentarios14abril,
+                    3,
+                    nombre_completo_ejecutivo,
+                    fecha_estimada_flag,
+                    0,  # adjudicada
+                    0   # cancelada
+                ), "COMENTARIOS_PROSPECIONES", fila_excel=fila_excel)                
+            else:
+                escribir_log(f"No hay comentario el 26 de Mayo en la fila {fila_excel}")
+
+            comentarios14abril = row.get("COMENTARIOS 02-04-25", "")
+            if pd.notna(comentarios14abril) and str(comentarios14abril).strip():
+                nombre_completo_ejecutivo = row.get("EJECUTIVO COMERCIAL", "")
+                fecha_estimada_flag = 1 if fecha_estimada_cierre else 0  # bit: 1 si existe, 0 si no
+
+                coe_id = insert_and_get_id(cursor, """
+                    INSERT INTO IOP.COMENTARIOS_PROSPECIONES (
+                        COE_OPP_ID,
+                        COE_DESCRIPCION,
+                        COE_FECHA_REGISTRO,
+                        COE_USU_ID,
+                        COE_NOMBRE_COMPLETO,
+                        COE_FECHA_ESTIMADA_CIERRE,
+                        COE_ADJUDICADA,
+                        COE_CANCELADA
+                    )
+                    VALUES (?, ?, GETDATE(), ?, ?, ?, ?, ?);
+                    SELECT SCOPE_IDENTITY();
+                """, (
+                    opp_id,
+                    comentarios14abril,
+                    3,
+                    nombre_completo_ejecutivo,
+                    fecha_estimada_flag,
+                    0,  # adjudicada
+                    0   # cancelada
+                ), "COMENTARIOS_PROSPECIONES", fila_excel=fila_excel)                
+            else:
+                escribir_log(f"No hay comentario el 2 de Abril 03 en la fila {fila_excel}")
 
             conn.commit()
             registros_insertados += 1
