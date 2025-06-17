@@ -1,35 +1,24 @@
-# Imagen base con Python
-FROM python:3.11-slim
+FROM python:3.12-slim
 
-# Instala dependencias del sistema necesarias para pyodbc
-RUN apt-get update && apt-get install -y \
-    gcc \
-    g++ \
-    unixodbc \
-    unixodbc-dev \
-    freetds-dev \
-    freetds-bin \
-    build-essential \
-    libssl-dev \
-    libffi-dev \
-    libpq-dev \
-    curl \
-    gnupg && \
-    rm -rf /var/lib/apt/lists/*
-
-# Instala ODBC Driver 17 for SQL Server
-RUN curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add - && \
-    curl https://packages.microsoft.com/config/debian/10/prod.list > /etc/apt/sources.list.d/mssql-release.list && \
-    apt-get update && ACCEPT_EULA=Y apt-get install -y msodbcsql17
-
-# Establece el directorio de trabajo
+# Establecer el directorio de trabajo
 WORKDIR /app
 
-# Copia los archivos del proyecto
+# Copiar archivos del proyecto
 COPY . .
 
-# Instala paquetes de Python
-RUN pip install --no-cache-dir -r requirements.txt
+# Instalar herramientas necesarias y drivers ODBC
+RUN apt-get update && \
+    apt-get install -y gcc curl gnupg unixodbc-dev && \
+    curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add - && \
+    curl https://packages.microsoft.com/config/debian/10/prod.list > /etc/apt/sources.list.d/mssql-release.list && \
+    apt-get update && \
+    ACCEPT_EULA=Y apt-get install -y msodbcsql17
 
-# Comando para ejecutar tu script
+# Instalar pipenv
+RUN pip install pipenv
+
+# Instalar dependencias desde Pipfile.lock
+RUN pipenv install --system --deploy
+
+# Ejecutar tu script principal (ajusta si el nombre es diferente)
 CMD ["python", "insertar_operaciones.py"]
