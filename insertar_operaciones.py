@@ -109,23 +109,21 @@ def obtener_fecha_estimada_cierre(mes_str, año=2024):
         return None
 
 def escribir_log(mensaje, separador=False):
-    # Nombre del archivo según la fecha
-    fecha = datetime.now().strftime("%Y-%m-%d")
-    nombre_archivo = f"log_{fecha}.txt"
-
-    # Ruta donde se escribirá el archivo (carpeta actual → /app → carpeta local)
-    ruta_log = os.path.join(os.getcwd(), nombre_archivo)
-
-    # Timestamp actual para el mensaje
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
     try:
+        fecha = datetime.now().strftime("%Y-%m-%d")
+        nombre_archivo = f"log_{fecha}.txt"
+        ruta_log = os.path.join("/app/output", f"log_{fecha}.txt")
+
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
         with open(ruta_log, "a", encoding="utf-8") as f:
             f.write(f"{timestamp} - {mensaje}\n")
             if separador:
                 f.write(f"{timestamp} {'=' * 60}\n")
+
     except Exception as e:
-        print(f"Error al escribir en el log: {e}")
+        print(f"❌ Error al escribir el log: {e}")
+
 
 
 ruta_excel = os.path.join(os.getcwd(), "carga.xlsx")
