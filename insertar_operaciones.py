@@ -316,7 +316,7 @@ for index, row in df.iterrows():
                 ?   -- OPP_FECHA_ESTIMADO_CIERRE
             );SELECT SCOPE_IDENTITY();
             """, (
-                'OPERACIÓN 1',
+                f'OPERACIÓN {index + 1}',
                 3,
                 emp_id,
                 cli_id_comercial,
